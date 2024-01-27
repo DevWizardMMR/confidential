@@ -1,0 +1,5752 @@
+[
+  {
+    "name": "SIDDIQUE BAZAR FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Moghbazar",
+    "address": "36, 48 Kazi Alauddin Rd, Siddique Bazar, Dhaka 1000",
+    "serviceArea": "From Moghbazar in the North to English road, Bangshal, Nawabpur, Banagram, Malitola in the South; to Dhaka Medical College area in the West to Wari in the East",
+    "contactInfo": {
+      "phone": "01730002210"
+    }
+  },
+  {
+    "name": "SADARGHAT FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Kotwali",
+    "address": "Simson Rd, Sadarghat, Dhaka 1100",
+    "serviceArea": "The entirety of Kotwali thana, Mitford area, wari (partial), Shyambazar area, Banglabazar area",
+    "contactInfo": {
+      "phone": "01730002214"
+    }
+  },
+  {
+    "name": "SADARGHAT NODI FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Shyampur",
+    "address": "Shyampur",
+    "serviceArea": "Buriganga River (establishments on either side of the river and dockyards)",
+    "contactInfo": {
+      "phone": "01317370301"
+    }
+  },
+  {
+    "name": "POSTOGOLA FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Postogola",
+    "address": "M C Rd, Postogola, Dhaka",
+    "serviceArea": "Shyampur, Jatrabari, Kadamtali, Dakshin Keraniganj",
+    "contactInfo": {
+      "phone": "01730002216"
+    }
+  },
+  {
+    "name": "LALBAGH FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Lalbagh",
+    "address": "22/1 Nur Fattah Lane, Lalbagh, Dhaka 1000",
+    "serviceArea": "Entirety of Lalbagh thana and Chawkbazar Model thana",
+    "contactInfo": {
+      "phone": "01730002218"
+    }
+  },
+  {
+    "name": "POLASHI BRACK FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Polashi",
+    "address": "Dhakeshwari Rd, Polashi, Dhaka 1000",
+    "serviceArea": "Science lab and Shahbagh (but Polashi brack fire station works together with the Lalbagh Fire service and civil defense station in most cases)",
+    "contactInfo": {
+      "phone": "01730002219"
+    }
+  },
+  {
+    "name": "KHILGAON FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Shantipur",
+    "address": "Shantipur Rd 02, Dhaka 1219",
+    "serviceArea": "Banasree, Basabo, Rampura, Meradia, Dolpur, Malibagh mor",
+    "contactInfo": {
+      "phone": "01730002225"
+    }
+  },
+  {
+    "name": "TEJGAON FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Shantipur",
+    "address": "Shaheed Tajuddin Ahmed Ave, Dhaka 1208",
+    "serviceArea": "Banani (partial), Gulshan 2, Shahinbagh, Gulshan 1, Mohakhali, Niketon, Nakhal para, Tejkuni para, Moghbazar, Chairman bari, Hatir jheel, Elenbari, Rasul bagh, RAJUK officer’s quarter, Kamal Ataturk Avenue, Mohakhali DOHS, Karwan Bazar, Farmgate (partial), Noyatola T&T colony",
+    "contactInfo": {
+      "phone": "01730002226"
+    }
+  },
+  {
+    "name": "MOHAMMADPUR FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Shantipur",
+    "address": "Mirpur Rd, Dhaka 1205",
+    "serviceArea": "Mohammadpur, Sher-E-Bangla Nagar, Adabar, Kallyanpur, Shyamoli, Dhanmondi (partial), Kalabagan (partial), Monipuri para, Bashundhara city, Farmgate.",
+    "contactInfo": {
+      "phone": "01730002227"
+    }
+  },
+  {
+    "name": "MIRPUR FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Mirpur",
+    "address": "Mirpur 10 Roundabout, Mirpur 1216",
+    "serviceArea": "Mirpur thana, Kafrul, Pallabi, Rupnagar, Shah Ali, Agargaon, Darussalam, Vashantek.",
+    "contactInfo": {
+      "phone": "01730002229"
+    }
+  },
+  {
+    "name": "KURMITOLA FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Khilkhet",
+    "address": "Guardroom – Shaheen College Rd, Dhaka 1206",
+    "serviceArea": "Khilkhet, Cantonment area, Banani (partial)",
+    "contactInfo": {
+      "phone": "01730002232"
+    }
+  },
+  {
+    "name": "UTTARA FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Uttara",
+    "address": "Sonargaon Janapath, Dhaka 1230",
+    "serviceArea": "East of Uttara, West of Uttara, Dakshin Khan, Turag",
+    "contactInfo": {
+      "phone": "01730082230"
+    }
+  },
+  {
+    "name": "DEPZ FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Savar",
+    "address": "Nabinagar – Chandra Road, Puratan DEPZ, Ashulia, Savar Union",
+    "serviceArea": "Kumirpur in the North, Nabinagar in the South, Ganashastho in the West, Kashimpur in the East, Rangamati, Amtala, Jiran Bazar",
+    "contactInfo": {
+      "phone": "01730002301"
+    }
+  },
+  {
+    "name": "DEMRA FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Narayanganj",
+    "address": "Demra-Narayanganj Rd, Sarulia, Near Rani Mahal Cinema Hall, Dhaka 1361",
+    "serviceArea": " Entirety of Demra Upazila and some parts of Narayanganj",
+    "contactInfo": {
+      "phone": "01730002302"
+    }
+  },
+  {
+    "name": "BARIDHARA FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Aftabnagar",
+    "address": "Plot 01, Madani Ave, Dhaka 1212",
+    "serviceArea": "Kuril (Bashundhara R/A, Nodda, Vatara), entirety of Badda (notun bazar), Up to Aftabnagar and Satarkul in the South",
+    "contactInfo": {
+      "phone": "01730002245"
+    }
+  },
+  {
+    "name": "SAVAR FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Aftabnagar",
+    "address": "Dhaka – Aricha Hwy, Savar Union 1340",
+    "serviceArea": "From Gabtali Bridge (Amin Bazar bridge) to the entirety of Savar Upazilla",
+    "contactInfo": {
+      "phone": "01730002250"
+    }
+  },
+  {
+    "name": "DOHAR FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Nababganj",
+    "address": "Shreenagar – Dohar Highway",
+    "serviceArea": "Joypara, Sutrapara, Narisha, Mukshudpur, Bilashpur, Ray para, Noya bari, Nababganj",
+    "contactInfo": {
+      "phone": "01726845949"
+    }
+  },
+  {
+    "name": "HAZARIBAGH FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Hazaribagh",
+    "address": "Hazaribagh Rd, Dhaka",
+    "serviceArea": "Zigatola, Hazaribagh Park, Kamrangir char",
+    "contactInfo": {
+      "phone": "01721733114"
+    }
+  },
+  {
+    "name": "DHAMRAI FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Dhamrai",
+    "address": " Dhaka-Aricha Hwy, Dhamrai 1350",
+    "serviceArea": "Gana shashtho, Boro Baria",
+    "contactInfo": {
+      "phone": "01742302850"
+    }
+  },
+  {
+    "name": "KERANIGANJ FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Keraniganj",
+    "address": "Upozila Parishad Road, Keraniganj",
+    "serviceArea": "Entirety of Keraniganj Upazila",
+    "contactInfo": {
+      "phone": "01730002247"
+    }
+  },
+  {
+    "name": "SOCHIBALOY FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Secretariat",
+    "address": "Abdul Gani Road, Dhaka 1000 (Bangladesh Secretariat)",
+    "serviceArea": "Bangladesh Secretariat",
+    "contactInfo": {
+      "phone": "029515555"
+    }
+  },
+  {
+    "name": "SUTRAPUR FIRE SERVICE AND CIVIL DEFENSE STATION",
+    "district": "Dhaka",
+    "city": "Secretariat",
+    "address": "R M Dash Rd, Dhaka",
+    "serviceArea": "Gendaria, Jatrabari, Tikatuli, Wari (partial), Dholaikhal, Doyaganj, Lakshibazar, Loharpul, Banglabazar (partial), Shyambazar (partial)",
+    "contactInfo": {
+      "phone": "01794117037"
+    }
+  },
+  {
+    "name": "Fire Service and Civil Defence Dinajpur",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "JJJP+52W, Station Rd, Dinajpur 5200",
+    "serviceArea": "JJJP+52W, Station Rd, Dinajpur 5200, Bangladesh Dinajpur Sadar, Rangpur Division, 5200",
+    "contactInfo": {
+      "phone": "01730-009120"
+    }
+  },
+  {
+    "name": "Rangpur Fire Station",
+    "district": "Rangpur",
+    "city": "Rangpur",
+    "address": "Rangpur",
+    "serviceArea": "Rangpur",
+    "contactInfo": {
+      "phone": "01901023231"
+    }
+  },
+  {
+    "name": "Haragach Fire Station",
+    "district": "Rangpur",
+    "city": "Haragach",
+    "address": "Haragach",
+    "serviceArea": "Haragach",
+    "contactInfo": {
+      "phone": "01901023241"
+    }
+  },
+  {
+    "name": "Badarganj Fire Station",
+    "district": "Rangpur",
+    "city": "Badarganj",
+    "address": "Badarganj",
+    "serviceArea": "Badarganj",
+    "contactInfo": {
+      "phone": "01901023235"
+    }
+  },
+  {
+    "name": "Kaunia Fire Station",
+    "district": "Rangpur",
+    "city": "Kaunia",
+    "address": "Kaunia",
+    "serviceArea": "Kaunia",
+    "contactInfo": {
+      "phone": "01901023239"
+    }
+  },
+  {
+    "name": "Mithapukur Fire Station",
+    "district": "Rangpur",
+    "city": "Mithapukur",
+    "address": "Mithapukur",
+    "serviceArea": "Mithapukur",
+    "contactInfo": {
+      "phone": "01901023243"
+    }
+  },
+  {
+    "name": "Pirgacha Fire Station",
+    "district": "Rangpur",
+    "city": "Pirgacha",
+    "address": "Pirgacha",
+    "serviceArea": "Pirgacha",
+    "contactInfo": {
+      "phone": "01901023245"
+    }
+  },
+  {
+    "name": "Pirganj Fire Station",
+    "district": "Rangpur",
+    "city": "Pirganj",
+    "address": "Pirganj",
+    "serviceArea": "Pirganj",
+    "contactInfo": {
+      "phone": "01901023247"
+    }
+  },
+  {
+    "name": "Taraganj Fire Station",
+    "district": "Rangpur",
+    "city": "Taraganj",
+    "address": "Taraganj",
+    "serviceArea": "Taraganj",
+    "contactInfo": {
+      "phone": "01901023249"
+    }
+  },
+  {
+    "name": "Gangachra Fire Station",
+    "district": "Rangpur",
+    "city": "Gangachra",
+    "address": "Gangachra",
+    "serviceArea": "Gangachara",
+    "contactInfo": {
+      "phone": "01901023237"
+    }
+  },
+  {
+    "name": "Deputy Director, Mymensingh",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Mymensingh",
+    "serviceArea": "Mymensingh",
+    "contactInfo": {
+      "phone": "01901020170"
+    }
+  },
+  {
+    "name": "Assistant Director, Mymensingh",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Mymensingh",
+    "serviceArea": "Mymensingh",
+    "contactInfo": {
+      "phone": "01901020172"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Mymensingh",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Mymensingh",
+    "serviceArea": "Mymensingh",
+    "contactInfo": {
+      "phone": "01901024205"
+    }
+  },
+  {
+    "name": "Mymons Nigh Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Mymons",
+    "serviceArea": "Mymensingh",
+    "contactInfo": {
+      "phone": "01901024217"
+    }
+  },
+  {
+    "name": "Muktagacha Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Muktagacha",
+    "serviceArea": "Muktagachha",
+    "contactInfo": {
+      "phone": "01901024227"
+    }
+  },
+  {
+    "name": "Ishwarganj Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Ishwarganj",
+    "serviceArea": "Ishwarganj",
+    "contactInfo": {
+      "phone": "01901024235"
+    }
+  },
+  {
+    "name": "Bhaluka Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Bhaluka",
+    "serviceArea": "Bhaluka",
+    "contactInfo": {
+      "phone": "01901024229"
+    }
+  },
+  {
+    "name": "Phulbaria Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Phulbaria",
+    "serviceArea": "Phulbaria",
+    "contactInfo": {
+      "phone": "01901024239"
+    }
+  },
+  {
+    "name": "Phulpur Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Phulpur",
+    "serviceArea": "Phulpur",
+    "contactInfo": {
+      "phone": "01901024241"
+    }
+  },
+  {
+    "name": "Gafargaon Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Gafargaon",
+    "serviceArea": "Gaffargaon",
+    "contactInfo": {
+      "phone": "01901024231"
+    }
+  },
+  {
+    "name": "Haluaghat Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Haluaghat",
+    "serviceArea": "Haluaghat",
+    "contactInfo": {
+      "phone": "01901024243"
+    }
+  },
+  {
+    "name": "Trishal Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Trishal",
+    "serviceArea": "Trishal",
+    "contactInfo": {
+      "phone": "01901024245"
+    }
+  },
+  {
+    "name": "Dhobaura Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Dhobaura",
+    "serviceArea": "Dhobaura",
+    "contactInfo": {
+      "phone": "01901024247"
+    }
+  },
+  {
+    "name": "Nandail Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Nandail",
+    "serviceArea": "Nandail",
+    "contactInfo": {
+      "phone": "01901024249"
+    }
+  },
+  {
+    "name": "Agricultural University Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Agricultural",
+    "serviceArea": "Agricultural",
+    "contactInfo": {
+      "phone": "01901024225"
+    }
+  },
+  {
+    "name": "Gouripur Fire Station",
+    "district": "Mymensingh",
+    "city": "Mymensingh",
+    "address": "Gouripur",
+    "serviceArea": "Gauripur",
+    "contactInfo": {
+      "phone": "01901024253"
+    }
+  },
+  {
+    "name": "Assistant Director, Jamalpur",
+    "district": "Jamalpur",
+    "city": "Jamalpur",
+    "address": "Jamalpur",
+    "serviceArea": "Jamalpur",
+    "contactInfo": {
+      "phone": "01901020174"
+    }
+  },
+  {
+    "name": "Jamalpur Fire Station",
+    "district": "Jamalpur",
+    "city": "Jamalpur",
+    "address": "Jamalpur",
+    "serviceArea": "Jamalpur",
+    "contactInfo": {
+      "phone": "01730-002399"
+    }
+  },
+  {
+    "name": "Sarishabari Fire Station",
+    "district": "Jamalpur",
+    "city": "Jamalpur",
+    "address": "Sarishabari",
+    "serviceArea": "Sarishabari",
+    "contactInfo": {
+      "phone": "01901024293"
+    }
+  },
+  {
+    "name": "Islampur Fire Station",
+    "district": "Jamalpur",
+    "city": "Jamalpur",
+    "address": "Islampur",
+    "serviceArea": "Islampur",
+    "contactInfo": {
+      "phone": "01901024285"
+    }
+  },
+  {
+    "name": "Melandah Fire Station",
+    "district": "Jamalpur",
+    "city": "Jamalpur",
+    "address": "Melandah",
+    "serviceArea": "Melandaha",
+    "contactInfo": {
+      "phone": "01901024291"
+    }
+  },
+  {
+    "name": "Dewanganj Fire Station",
+    "district": "Jamalpur",
+    "city": "Jamalpur",
+    "address": "Dewanganj",
+    "serviceArea": "Dewangonj",
+    "contactInfo": {
+      "phone": "01901024283"
+    }
+  },
+  {
+    "name": "Motherganj Fire Station",
+    "district": "Jamalpur",
+    "city": "Jamalpur",
+    "address": "Motherganj",
+    "serviceArea": "Motherganj",
+    "contactInfo": {
+      "phone": "01901024289"
+    }
+  },
+  {
+    "name": "Bakshiganj Fire Station",
+    "district": "Jamalpur",
+    "city": "Jamalpur",
+    "address": "Bakshiganj",
+    "serviceArea": "Bakshiganj",
+    "contactInfo": {
+      "phone": "01901024297"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Sherpur",
+    "district": "Sherpur",
+    "city": "Sherpur",
+    "address": "Sherpur",
+    "serviceArea": "Sherpur",
+    "contactInfo": {
+      "phone": "01901024204"
+    }
+  },
+  {
+    "name": "Sherpur Fire Station",
+    "district": "Sherpur",
+    "city": "Sherpur",
+    "address": "Sherpur",
+    "serviceArea": "Sherpur",
+    "contactInfo": {
+      "phone": "01901024299"
+    }
+  },
+  {
+    "name": "Nalitabari Fire Station",
+    "district": "Sherpur",
+    "city": "Sherpur",
+    "address": "Nalitabari",
+    "serviceArea": "Nalitabari",
+    "contactInfo": {
+      "phone": "01901024305"
+    }
+  },
+  {
+    "name": "Jhenaigati Fire Station",
+    "district": "Sherpur",
+    "city": "Sherpur",
+    "address": "Jhenaigati",
+    "serviceArea": "Jhenaigati",
+    "contactInfo": {
+      "phone": "01901024301"
+    }
+  },
+  {
+    "name": "Srivardi Fire Station",
+    "district": "Sherpur",
+    "city": "Sherpur",
+    "address": "Srivardi",
+    "serviceArea": "Sreebardi",
+    "contactInfo": {
+      "phone": "01901024311"
+    }
+  },
+  {
+    "name": "Nakla Fire Station",
+    "district": "Sherpur",
+    "city": "Sherpur",
+    "address": "Nakla",
+    "serviceArea": "Nakla",
+    "contactInfo": {
+      "phone": "01901024309"
+    }
+  },
+  {
+    "name": "Assistant Director, Netrakona",
+    "district": "Netrakona",
+    "city": "Netrakona",
+    "address": "Netrakona",
+    "serviceArea": "Netrakona",
+    "contactInfo": {
+      "phone": "01901024206"
+    }
+  },
+  {
+    "name": "Netrakona Fire Station",
+    "district": "Netrakona",
+    "city": "Netrakona",
+    "address": "Netrakona",
+    "serviceArea": "Netrakona",
+    "contactInfo": {
+      "phone": "01901024255"
+    }
+  },
+  {
+    "name": "Mohanganj Fire Station",
+    "district": "Netrakona",
+    "city": "Netrakona",
+    "address": "Mohanganj",
+    "serviceArea": "Mohanganj",
+    "contactInfo": {
+      "phone": "01901024269"
+    }
+  },
+  {
+    "name": "Kendua Fire Station",
+    "district": "Netrakona",
+    "city": "Netrakona",
+    "address": "Kendua",
+    "serviceArea": "Kendua",
+    "contactInfo": {
+      "phone": "01901024265"
+    }
+  },
+  {
+    "name": "Kalmakanda Fire Station",
+    "district": "Netrakona",
+    "city": "Netrakona",
+    "address": "Kalmakanda",
+    "serviceArea": "Kalmakanda",
+    "contactInfo": {
+      "phone": "01901024263"
+    }
+  },
+  {
+    "name": "Madan Fire Station",
+    "district": "Netrakona",
+    "city": "Netrakona",
+    "address": "Madan",
+    "serviceArea": "Madan",
+    "contactInfo": {
+      "phone": "01901024267"
+    }
+  },
+  {
+    "name": "Durgapur Fire Station",
+    "district": "Netrakona",
+    "city": "Netrakona",
+    "address": "Durgapur",
+    "serviceArea": "Durgapur",
+    "contactInfo": {
+      "phone": "01901024261"
+    }
+  },
+  {
+    "name": "Atpara Fire Station",
+    "district": "Netrakona",
+    "city": "Netrakona",
+    "address": "Atpara",
+    "serviceArea": "Atpara",
+    "contactInfo": {
+      "phone": "01901024257"
+    }
+  },
+  {
+    "name": "Barhatta Fire Station",
+    "district": "Netrakona",
+    "city": "Netrakona",
+    "address": "Barhatta",
+    "serviceArea": "Barhatta",
+    "contactInfo": {
+      "phone": "01901024259"
+    }
+  },
+  {
+    "name": "Purbadhala Fire Station",
+    "district": "Netrakona",
+    "city": "Netrakona",
+    "address": "Purbadhala",
+    "serviceArea": "Purbadhala",
+    "contactInfo": {
+      "phone": "01901024271"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Gaibandha",
+    "district": "Gaibandha",
+    "city": "Gaibandha",
+    "address": "Gaibandha",
+    "serviceArea": "Gaibandha",
+    "contactInfo": {
+      "phone": "01901023204"
+    }
+  },
+  {
+    "name": "Gaibandha Fire Station",
+    "district": "Gaibandha",
+    "city": "Gaibandha",
+    "address": "Gaibandha",
+    "serviceArea": "Gaibandha",
+    "contactInfo": {
+      "phone": "01901023323"
+    }
+  },
+  {
+    "name": "Gobindganj Fire Station",
+    "district": "Gaibandha",
+    "city": "Gaibandha",
+    "address": "Gobindganj",
+    "serviceArea": "Gobindaganj",
+    "contactInfo": {
+      "phone": "01901023325"
+    }
+  },
+  {
+    "name": "Phulchari Foyor Jeshan",
+    "district": "Gaibandha",
+    "city": "Gaibandha",
+    "address": "Phulchari",
+    "serviceArea": "Fulchhari",
+    "contactInfo": {
+      "phone": "01901023333"
+    }
+  },
+  {
+    "name": "Soghoto Foyer Jesion",
+    "district": "Gaibandha",
+    "city": "Gaibandha",
+    "address": "Saghoata",
+    "serviceArea": "Saghata",
+    "contactInfo": {
+      "phone": "01901023331"
+    }
+  },
+  {
+    "name": "Sundarganj Foyer Jeshan",
+    "district": "Gaibandha",
+    "city": "Gaibandha",
+    "address": "Sundarganj",
+    "serviceArea": "Sundarganj",
+    "contactInfo": {
+      "phone": "01901023327"
+    }
+  },
+  {
+    "name": "Sodullopur Foyer Jeshan",
+    "district": "Gaibandha",
+    "city": "Gaibandha",
+    "address": "Sodullopur",
+    "serviceArea": "Sadullapur",
+    "contactInfo": {
+      "phone": "01901023335"
+    }
+  },
+  {
+    "name": "Poshboi Foor Jesion",
+    "district": "Gaibandha",
+    "city": "Gaibandha",
+    "address": "Poshboi",
+    "serviceArea": "Palashbari",
+    "contactInfo": {
+      "phone": "01901023329"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Kurigram",
+    "district": "Kurigram",
+    "city": "Kurigram",
+    "address": "Kurigram",
+    "serviceArea": "Kurigram",
+    "contactInfo": {
+      "phone": "01901023205"
+    }
+  },
+  {
+    "name": "Kurigram Fire Station",
+    "district": "Kurigram",
+    "city": "Kurigram",
+    "address": "Kurigram",
+    "serviceArea": "Kurigram",
+    "contactInfo": {
+      "phone": "01901023337"
+    }
+  },
+  {
+    "name": "Ulipur Fire Station",
+    "district": "Kurigram",
+    "city": "Kurigram",
+    "address": "Ulipur",
+    "serviceArea": "Ulipur",
+    "contactInfo": {
+      "phone": "01901023341"
+    }
+  },
+  {
+    "name": "Nageshwari Fire Station",
+    "district": "Kurigram",
+    "city": "Kurigram",
+    "address": "Nageshwari",
+    "serviceArea": "Nageshwari",
+    "contactInfo": {
+      "phone": "01901023343"
+    }
+  },
+  {
+    "name": "Chilmari Fire Station",
+    "district": "Kurigram",
+    "city": "Kurigram",
+    "address": "Chilmari",
+    "serviceArea": "Chilmari",
+    "contactInfo": {
+      "phone": "01901023345"
+    }
+  },
+  {
+    "name": "Kartimari Fire Station",
+    "district": "Kurigram",
+    "city": "Kurigram",
+    "address": "Kartimari",
+    "serviceArea": "Kartimari",
+    "contactInfo": {
+      "phone": "01901023347"
+    }
+  },
+  {
+    "name": "Rajarhat Fire Station",
+    "district": "Kurigram",
+    "city": "Kurigram",
+    "address": "Rajarhat",
+    "serviceArea": "Rajarhat",
+    "contactInfo": {
+      "phone": "01901023349"
+    }
+  },
+  {
+    "name": "Phulbari Fire Station",
+    "district": "Kurigram",
+    "city": "Kurigram",
+    "address": "Phulbari",
+    "serviceArea": "Phulbari",
+    "contactInfo": {
+      "phone": "01901023351"
+    }
+  },
+  {
+    "name": "Rajibpur Fire Station",
+    "district": "Kurigram",
+    "city": "Kurigram",
+    "address": "Rajibpur",
+    "serviceArea": "Rajibpur",
+    "contactInfo": {
+      "phone": "01901023353"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Lalmonirhat",
+    "district": "Lalmonirhat",
+    "city": "Lalmonirhat",
+    "address": "Lalmonirhat",
+    "serviceArea": "Lalmonirhat",
+    "contactInfo": {
+      "phone": "01901023206"
+    }
+  },
+  {
+    "name": "Lalmonirhat Fire Station",
+    "district": "Lalmonirhat",
+    "city": "Lalmonirhat",
+    "address": "Lalmonirhat",
+    "serviceArea": "Lalmonirhat",
+    "contactInfo": {
+      "phone": "01901023359"
+    }
+  },
+  {
+    "name": "Patgram Fire Station",
+    "district": "Lalmonirhat",
+    "city": "Lalmonirhat",
+    "address": "Patgram",
+    "serviceArea": "Patgram",
+    "contactInfo": {
+      "phone": "01901023361"
+    }
+  },
+  {
+    "name": "Hatibandha Fire Station",
+    "district": "Lalmonirhat",
+    "city": "Lalmonirhat",
+    "address": "Hatibandha",
+    "serviceArea": "Hatibandha",
+    "contactInfo": {
+      "phone": "01901023367"
+    }
+  },
+  {
+    "name": "Kaliganj Fire Station",
+    "district": "Lalmonirhat",
+    "city": "Lalmonirhat",
+    "address": "Kaliganj",
+    "serviceArea": "Kaliganj",
+    "contactInfo": {
+      "phone": "01901023365"
+    }
+  },
+  {
+    "name": "Aritmori Foyor Jeshan",
+    "district": "Lalmonirhat",
+    "city": "Lalmonirhat",
+    "address": "Aritmori",
+    "serviceArea": "Aditmari",
+    "contactInfo": {
+      "phone": "01901023369"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Nilphamari",
+    "district": "Nilphamari",
+    "city": "Nilphamari",
+    "address": "Nilphamari",
+    "serviceArea": "Nilphamari",
+    "contactInfo": {
+      "phone": "01901023207"
+    }
+  },
+  {
+    "name": "Nilphamari Fire Station",
+    "district": "Nilphamari",
+    "city": "Nilphamari",
+    "address": "Nilphamari",
+    "serviceArea": "Nilphamari",
+    "contactInfo": {
+      "phone": "01901023307"
+    }
+  },
+  {
+    "name": "Syedpur Fire Station",
+    "district": "Nilphamari",
+    "city": "Nilphamari",
+    "address": "Syedpur",
+    "serviceArea": "Saidpur",
+    "contactInfo": {
+      "phone": "01901023311"
+    }
+  },
+  {
+    "name": "Uttara EPZ Fire Station",
+    "district": "Nilphamari",
+    "city": "Nilphamari",
+    "address": "Uttara",
+    "serviceArea": "Uttara",
+    "contactInfo": {
+      "phone": "01901023309"
+    }
+  },
+  {
+    "name": "Kishoreganj Fire Station",
+    "district": "Nilphamari",
+    "city": "Nilphamari",
+    "address": "Kishoreganj",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901023319"
+    }
+  },
+  {
+    "name": "Jaldhaka Fire Station",
+    "district": "Nilphamari",
+    "city": "Nilphamari",
+    "address": "Jaldhaka",
+    "serviceArea": "Jaldhaka",
+    "contactInfo": {
+      "phone": "01901023317"
+    }
+  },
+  {
+    "name": "Domar Fire Station",
+    "district": "Nilphamari",
+    "city": "Nilphamari",
+    "address": "Domar",
+    "serviceArea": "Domar",
+    "contactInfo": {
+      "phone": "01901023313"
+    }
+  },
+  {
+    "name": "Dimla Fire Station",
+    "district": "Nilphamari",
+    "city": "Nilphamari",
+    "address": "Dimla",
+    "serviceArea": "Dimla",
+    "contactInfo": {
+      "phone": "01901023321"
+    }
+  },
+  {
+    "name": "Chilahati Fire Station",
+    "district": "Nilphamari",
+    "city": "Nilphamari",
+    "address": "Chilahati",
+    "serviceArea": "Chilahati",
+    "contactInfo": {
+      "phone": "01901023315"
+    }
+  },
+  {
+    "name": "Assistant Director, Dinajpur",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Dinajpur",
+    "serviceArea": "Dinajpur",
+    "contactInfo": {
+      "phone": "01901020144"
+    }
+  },
+  {
+    "name": "Dinajpur Fire Station",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Dinajpur",
+    "serviceArea": "Dinajpur",
+    "contactInfo": {
+      "phone": "01901023251"
+    }
+  },
+  {
+    "name": "Parvatipur Fire Station",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Parvatipur",
+    "serviceArea": "Parvatipur",
+    "contactInfo": {
+      "phone": "01901023259"
+    }
+  },
+  {
+    "name": "Phulbari Fire Station",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Phulbari",
+    "serviceArea": "Phulbari",
+    "contactInfo": {
+      "phone": "01901023261"
+    }
+  },
+  {
+    "name": "Birampur Fire Station",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Birampur",
+    "serviceArea": "Birampur",
+    "contactInfo": {
+      "phone": "01901023269"
+    }
+  },
+  {
+    "name": "Setabganj Fire Station",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Setabganj",
+    "serviceArea": "Setabganj",
+    "contactInfo": {
+      "phone": "01901023263"
+    }
+  },
+  {
+    "name": "Healy Fire Station",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Healy",
+    "serviceArea": "Healy",
+    "contactInfo": {
+      "phone": "01901023273"
+    }
+  },
+  {
+    "name": "Birganj Foyer Jeshan",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Birganj",
+    "serviceArea": "Birganj",
+    "contactInfo": {
+      "phone": "01901023279"
+    }
+  },
+  {
+    "name": "Dirrarbandar Foyor Jesion",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Dirrarbandar",
+    "serviceArea": "Dirrarbandar",
+    "contactInfo": {
+      "phone": "01901023265"
+    }
+  },
+  {
+    "name": "Khansama Fire Station",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Khansama",
+    "serviceArea": "Khansama",
+    "contactInfo": {
+      "phone": "01901023277"
+    }
+  },
+  {
+    "name": "Ghoraghat Fire Station",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Ghoraghat",
+    "serviceArea": "Ghoraghat",
+    "contactInfo": {
+      "phone": "01901023271"
+    }
+  },
+  {
+    "name": "Nawabganj Fire Station",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Nawabganj",
+    "serviceArea": "Nawabganj",
+    "contactInfo": {
+      "phone": "01901023281"
+    }
+  },
+  {
+    "name": "Kaharol Fire Station",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Kaharol",
+    "serviceArea": "Kaharol",
+    "contactInfo": {
+      "phone": "01901023275"
+    }
+  },
+  {
+    "name": "Biral Fire Station",
+    "district": "Dinajpur",
+    "city": "Dinajpur",
+    "address": "Biral",
+    "serviceArea": "Biral",
+    "contactInfo": {
+      "phone": "01901023283"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Thakurgaon",
+    "district": "Thakurgaon",
+    "city": "Thakurgaon",
+    "address": "Thakurgaon",
+    "serviceArea": "Thakurgaon",
+    "contactInfo": {
+      "phone": "01901023208"
+    }
+  },
+  {
+    "name": "Thakurgaon Fire Station",
+    "district": "Thakurgaon",
+    "city": "Thakurgaon",
+    "address": "Thakurgaon",
+    "serviceArea": "Thakurgaon",
+    "contactInfo": {
+      "phone": "01901023285"
+    }
+  },
+  {
+    "name": "Pirganj Fire Station",
+    "district": "Thakurgaon",
+    "city": "Thakurgaon",
+    "address": "Pirganj",
+    "serviceArea": "Pirganj",
+    "contactInfo": {
+      "phone": "01901023291"
+    }
+  },
+  {
+    "name": "Baliadangi Fire Station",
+    "district": "Thakurgaon",
+    "city": "Thakurgaon",
+    "address": "Baliadangi",
+    "serviceArea": "Baliadangi",
+    "contactInfo": {
+      "phone": "01901023287"
+    }
+  },
+  {
+    "name": "Ranishankoil Fire Station",
+    "district": "Thakurgaon",
+    "city": "Thakurgaon",
+    "address": "Ranishankoil",
+    "serviceArea": "Ranishankoil",
+    "contactInfo": {
+      "phone": "01901023295"
+    }
+  },
+  {
+    "name": "Haripur Fire Station",
+    "district": "Thakurgaon",
+    "city": "Thakurgaon",
+    "address": "Haripur",
+    "serviceArea": "Haripur",
+    "contactInfo": {
+      "phone": "01901023289"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Panchagarh",
+    "district": "Panchagarh",
+    "city": "Panchagarh",
+    "address": "Panchagarh",
+    "serviceArea": "Panchagarh",
+    "contactInfo": {
+      "phone": "01901023209"
+    }
+  },
+  {
+    "name": "Panchagarh Fire Station",
+    "district": "Panchagarh",
+    "city": "Panchagarh",
+    "address": "Panchagarh",
+    "serviceArea": "Panchagarh",
+    "contactInfo": {
+      "phone": "01901023297"
+    }
+  },
+  {
+    "name": "Tentulia Fire Station",
+    "district": "Panchagarh",
+    "city": "Panchagarh",
+    "address": "Tentulia",
+    "serviceArea": "Tentulia",
+    "contactInfo": {
+      "phone": "01901023299"
+    }
+  },
+  {
+    "name": "Boda Fire Station",
+    "district": "Panchagarh",
+    "city": "Panchagarh",
+    "address": "Boda",
+    "serviceArea": "Boda",
+    "contactInfo": {
+      "phone": "01901023301"
+    }
+  },
+  {
+    "name": "Debiganj Fire Station",
+    "district": "Panchagarh",
+    "city": "Panchagarh",
+    "address": "Debiganj",
+    "serviceArea": "Debiganj",
+    "contactInfo": {
+      "phone": "01901023303"
+    }
+  },
+  {
+    "name": "Atwari Fire Station",
+    "district": "Panchagarh",
+    "city": "Panchagarh",
+    "address": "Atwari",
+    "serviceArea": "Atwari",
+    "contactInfo": {
+      "phone": "01901023305"
+    }
+  },
+  {
+    "name": "Deputy Director, Sylhet",
+    "district": "Sylhet",
+    "city": "Sylhet",
+    "address": "Sylhet",
+    "serviceArea": "Sylhet",
+    "contactInfo": {
+      "phone": "01901020150"
+    }
+  },
+  {
+    "name": "Assistant Director, Greater Sylhet District",
+    "district": "Sylhet",
+    "city": "Sylhet",
+    "address": "Assistant",
+    "serviceArea": "Assistant",
+    "contactInfo": {
+      "phone": "01901020152"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Sylhet",
+    "district": "Sylhet",
+    "city": "Sylhet",
+    "address": "Deputy",
+    "serviceArea": "Deputy",
+    "contactInfo": {
+      "phone": "01901023602"
+    }
+  },
+  {
+    "name": "Sylhet Fire Station",
+    "district": "Sylhet",
+    "city": "Sylhet",
+    "address": "Sylhet",
+    "serviceArea": "Sylhet",
+    "contactInfo": {
+      "phone": "01901023616"
+    }
+  },
+  {
+    "name": "Sylhet (South) Fire Station",
+    "district": "Sylhet",
+    "city": "Sylhet",
+    "address": "Sylhet (South)",
+    "serviceArea": "Sylhet (South)",
+    "contactInfo": {
+      "phone": "01901023628"
+    }
+  },
+  {
+    "name": "Osmaninagar Fire Station",
+    "district": "Sylhet",
+    "city": "Sylhet",
+    "address": "Osmaninagar",
+    "serviceArea": "Osmaninagar",
+    "contactInfo": {
+      "phone": "01901023638"
+    }
+  },
+  {
+    "name": "Jokiganj Fire Station",
+    "district": "Sylhet",
+    "city": "Sylhet",
+    "address": "Jokiganj",
+    "serviceArea": "Jokiganj",
+    "contactInfo": {
+      "phone": "01901023636"
+    }
+  },
+  {
+    "name": "Biyanibazar Fire Station",
+    "district": "Sylhet",
+    "city": "Sylhet",
+    "address": "Biyanibazar",
+    "serviceArea": "Biyanibazar",
+    "contactInfo": {
+      "phone": "01901023634"
+    }
+  },
+  {
+    "name": "Fenchuganj Fire Station",
+    "district": "Sylhet",
+    "city": "Sylhet",
+    "address": "Fenchuganj",
+    "serviceArea": "Fenchuganj",
+    "contactInfo": {
+      "phone": "01901023640"
+    }
+  },
+  {
+    "name": "Jaintapur Fire Station",
+    "district": "Sylhet",
+    "city": "Sylhet",
+    "address": "Jaintapur",
+    "serviceArea": "Jaintapur",
+    "contactInfo": {
+      "phone": "01901023644"
+    }
+  },
+  {
+    "name": "Cantonment Fire Station",
+    "district": "Sylhet",
+    "city": "Sylhet",
+    "address": "Cantonment",
+    "serviceArea": "Cantonment",
+    "contactInfo": {
+      "phone": "01901023618"
+    }
+  },
+  {
+    "name": "Golapganj Fire Station",
+    "district": "Sylhet",
+    "city": "Sylhet",
+    "address": "Golapganj",
+    "serviceArea": "Golapganj",
+    "contactInfo": {
+      "phone": "01901023642"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Sunamganj",
+    "district": "Sunamganj",
+    "city": "Sunamganj",
+    "address": "Sunamganj",
+    "serviceArea": "Sunamganj",
+    "contactInfo": {
+      "phone": "01901023605"
+    }
+  },
+  {
+    "name": "Sunamganj Fire Station",
+    "district": "Sunamganj",
+    "city": "Sunamganj",
+    "address": "Sunamganj",
+    "serviceArea": "Sunamganj",
+    "contactInfo": {
+      "phone": "01901023698"
+    }
+  },
+  {
+    "name": "Chatak Fire Station",
+    "district": "Sunamganj",
+    "city": "Sunamganj",
+    "address": "Chatak",
+    "serviceArea": "Chatak",
+    "contactInfo": {
+      "phone": "01901023700"
+    }
+  },
+  {
+    "name": "Jagannathpur Fire Station",
+    "district": "Sunamganj",
+    "city": "Sunamganj",
+    "address": "Jagannathpur",
+    "serviceArea": "Jagannathpur",
+    "contactInfo": {
+      "phone": "01901023704"
+    }
+  },
+  {
+    "name": "South Sunamganj Fire Station",
+    "district": "Sunamganj",
+    "city": "Sunamganj",
+    "address": "South Sunamganj",
+    "serviceArea": "South Sunamganj",
+    "contactInfo": {
+      "phone": "01901023706"
+    }
+  },
+  {
+    "name": "Bishambharpur Fire Station",
+    "district": "Sunamganj",
+    "city": "Sunamganj",
+    "address": "Bishambharpur",
+    "serviceArea": "Bishambharpur",
+    "contactInfo": {
+      "phone": "01901023710"
+    }
+  },
+  {
+    "name": "Dirai Fire Station",
+    "district": "Sunamganj",
+    "city": "Sunamganj",
+    "address": "Dirai",
+    "serviceArea": "Dirai",
+    "contactInfo": {
+      "phone": "01901023708"
+    }
+  },
+  {
+    "name": "Doarabazar Fire Station",
+    "district": "Sunamganj",
+    "city": "Sunamganj",
+    "address": "Doarabazar",
+    "serviceArea": "Doarabazar",
+    "contactInfo": {
+      "phone": "01901023712"
+    }
+  },
+  {
+    "name": "Tahirpur Fire Station",
+    "district": "Sunamganj",
+    "city": "Sunamganj",
+    "address": "Tahirpur",
+    "serviceArea": "Tahirpur",
+    "contactInfo": {
+      "phone": "01901023714"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Moulvibazar",
+    "district": "Moulvibazar",
+    "city": "Moulvibazar",
+    "address": "Moulvibazar",
+    "serviceArea": "Moulvibazar",
+    "contactInfo": {
+      "phone": "01901023603"
+    }
+  },
+  {
+    "name": "Moulvibazar Fire Station",
+    "district": "Moulvibazar",
+    "city": "Moulvibazar",
+    "address": "Moulvibazar",
+    "serviceArea": "Moulvibazar",
+    "contactInfo": {
+      "phone": "01901023658"
+    }
+  },
+  {
+    "name": "Srimangal Fire Station",
+    "district": "Moulvibazar",
+    "city": "Moulvibazar",
+    "address": "Srimangal",
+    "serviceArea": "Srimangal",
+    "contactInfo": {
+      "phone": "01901023668"
+    }
+  },
+  {
+    "name": "Kulaura Fire Station",
+    "district": "Moulvibazar",
+    "city": "Moulvibazar",
+    "address": "Kulaura",
+    "serviceArea": "Kulaura",
+    "contactInfo": {
+      "phone": "01901023664"
+    }
+  },
+  {
+    "name": "Kamalganj Fire Station",
+    "district": "Moulvibazar",
+    "city": "Moulvibazar",
+    "address": "Kamalganj",
+    "serviceArea": "Kamalganj",
+    "contactInfo": {
+      "phone": "01901023666"
+    }
+  },
+  {
+    "name": "Baralekha Fire Station",
+    "district": "Moulvibazar",
+    "city": "Moulvibazar",
+    "address": "Baralekha",
+    "serviceArea": "Baralekha",
+    "contactInfo": {
+      "phone": "01901023670"
+    }
+  },
+  {
+    "name": "Rajnagar Fire Station",
+    "district": "Moulvibazar",
+    "city": "Moulvibazar",
+    "address": "Rajnagar",
+    "serviceArea": "Rajnagar",
+    "contactInfo": {
+      "phone": "01901023672"
+    }
+  },
+  {
+    "name": "Assistant Director, Habiganj",
+    "district": "Habiganj",
+    "city": "Habiganj",
+    "address": "Habiganj",
+    "serviceArea": "Habiganj",
+    "contactInfo": {
+      "phone": "01901023604"
+    }
+  },
+  {
+    "name": "Habiganj Fire Station",
+    "district": "Habiganj",
+    "city": "Habiganj",
+    "address": "Habiganj",
+    "serviceArea": "Habiganj",
+    "contactInfo": {
+      "phone": "01901023678"
+    }
+  },
+  {
+    "name": "Madhavpur Fire Station",
+    "district": "Habiganj",
+    "city": "Habiganj",
+    "address": "Madhavpur",
+    "serviceArea": "Madhavpur",
+    "contactInfo": {
+      "phone": "01901023682"
+    }
+  },
+  {
+    "name": "Nabiganj Fire Station",
+    "district": "Habiganj",
+    "city": "Habiganj",
+    "address": "Nabiganj",
+    "serviceArea": "Nabiganj",
+    "contactInfo": {
+      "phone": "01901023686"
+    }
+  },
+  {
+    "name": "Baniachong Fire Station",
+    "district": "Habiganj",
+    "city": "Habiganj",
+    "address": "Baniachong",
+    "serviceArea": "Baniachong",
+    "contactInfo": {
+      "phone": "01901023680"
+    }
+  },
+  {
+    "name": "Shaistaganj Fire Station",
+    "district": "Habiganj",
+    "city": "Habiganj",
+    "address": "Shaistaganj",
+    "serviceArea": "Shaistaganj",
+    "contactInfo": {
+      "phone": "01901023688"
+    }
+  },
+  {
+    "name": "Chunarughat Fire Station",
+    "district": "Habiganj",
+    "city": "Habiganj",
+    "address": "Chunarughat",
+    "serviceArea": "Chunarughat",
+    "contactInfo": {
+      "phone": "01901023690"
+    }
+  },
+  {
+    "name": "Deputy Director, Rajshahi",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Rajshahi",
+    "serviceArea": "Rajshahi",
+    "contactInfo": {
+      "phone": "01901020120"
+    }
+  },
+  {
+    "name": "Assistant Director, Greater Rajshahi District",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Rajshahi",
+    "serviceArea": "Rajshahi",
+    "contactInfo": {
+      "phone": "01901020122"
+    }
+  },
+  {
+    "name": "Rajshahi Fire Station",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Rajshahi",
+    "serviceArea": "Rajshahi",
+    "contactInfo": {
+      "phone": "01901022227"
+    }
+  },
+  {
+    "name": "University Fire Station",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "University",
+    "serviceArea": "University",
+    "contactInfo": {
+      "phone": "01901022229"
+    }
+  },
+  {
+    "name": "Puthia Fire Station",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Puthia",
+    "serviceArea": "Puthia",
+    "contactInfo": {
+      "phone": "01901022249"
+    }
+  },
+  {
+    "name": "Charghat Fire Station",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Charghat",
+    "serviceArea": "Charghat",
+    "contactInfo": {
+      "phone": "01901022237"
+    }
+  },
+  {
+    "name": "Godagari Fire Station",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Godagari",
+    "serviceArea": "Godagari",
+    "contactInfo": {
+      "phone": "01901022241"
+    }
+  },
+  {
+    "name": "Tanore Fire Station",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Tanore",
+    "serviceArea": "Tanore",
+    "contactInfo": {
+      "phone": "01901022251"
+    }
+  },
+  {
+    "name": "Bagmara Fire Station",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Bagmara",
+    "serviceArea": "Bagmara",
+    "contactInfo": {
+      "phone": "01901022235"
+    }
+  },
+  {
+    "name": "Durgapur Fire Station",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Durgapur",
+    "serviceArea": "Durgapur",
+    "contactInfo": {
+      "phone": "01901022239"
+    }
+  },
+  {
+    "name": "Rajshahi North Fire Station",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Rajshahi North",
+    "serviceArea": "Rajshahi North",
+    "contactInfo": {
+      "phone": "01901022231"
+    }
+  },
+  {
+    "name": "Nohata Fire Station",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Nohata",
+    "serviceArea": "Nohata",
+    "contactInfo": {
+      "phone": "01901022247"
+    }
+  },
+  {
+    "name": "Bagha Fire Station",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Bagha",
+    "serviceArea": "Bagha",
+    "contactInfo": {
+      "phone": "01901022253"
+    }
+  },
+  {
+    "name": "Mohanpur Fire Station",
+    "district": "Rajshahi",
+    "city": "Rajshahi",
+    "address": "Mohanpur",
+    "serviceArea": "Mohanpur",
+    "contactInfo": {
+      "phone": "01901022245"
+    }
+  },
+  {
+    "name": "Assistant Director, Chapainawabganj",
+    "district": "Chapainawabganj",
+    "city": "Chapainawabganj",
+    "address": "Chapainawabganj",
+    "serviceArea": "Chapainawabganj",
+    "contactInfo": {
+      "phone": "01901022205"
+    }
+  },
+  {
+    "name": "Chapainawabganj Fire Station",
+    "district": "Chapainawabganj",
+    "city": "Chapainawabganj",
+    "address": "Chapainawabganj",
+    "serviceArea": "Chapainawabganj",
+    "contactInfo": {
+      "phone": "01901022309"
+    }
+  },
+  {
+    "name": "Shibganj Fire Station",
+    "district": "Chapainawabganj",
+    "city": "Chapainawabganj",
+    "address": "Shibganj",
+    "serviceArea": "Shibganj",
+    "contactInfo": {
+      "phone": "01901022317"
+    }
+  },
+  {
+    "name": "Gomstapur Fire Station",
+    "district": "Chapainawabganj",
+    "city": "Chapainawabganj",
+    "address": "Gomstapur",
+    "serviceArea": "Gomstapur",
+    "contactInfo": {
+      "phone": "01901022313"
+    }
+  },
+  {
+    "name": "Velohot Fire Station",
+    "district": "Chapainawabganj",
+    "city": "Chapainawabganj",
+    "address": "Velohot",
+    "serviceArea": "Velohot",
+    "contactInfo": {
+      "phone": "01901022311"
+    }
+  },
+  {
+    "name": "Noche Al Fire Station",
+    "district": "Chapainawabganj",
+    "city": "Chapainawabganj",
+    "address": "Noche Al",
+    "serviceArea": "Noche Al",
+    "contactInfo": {
+      "phone": "01901022315"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Naogaon",
+    "district": "Naogaon",
+    "city": "Naogaon",
+    "address": "Naogaon",
+    "serviceArea": "Naogaon",
+    "contactInfo": {
+      "phone": "01901022206"
+    }
+  },
+  {
+    "name": "Naogaon Fire Station",
+    "district": "Naogaon",
+    "city": "Naogaon",
+    "address": "Naogaon",
+    "serviceArea": "Naogaon",
+    "contactInfo": {
+      "phone": "01901022255"
+    }
+  },
+  {
+    "name": "Patoeitla Fire Station",
+    "district": "Naogaon",
+    "city": "Naogaon",
+    "address": "Patoeitla",
+    "serviceArea": "Patoeitla",
+    "contactInfo": {
+      "phone": "01901022269"
+    }
+  },
+  {
+    "name": "Atrai Fire Station",
+    "district": "Naogaon",
+    "city": "Naogaon",
+    "address": "Atrai",
+    "serviceArea": "Atrai",
+    "contactInfo": {
+      "phone": "01901022263"
+    }
+  },
+  {
+    "name": "Niamatpur Fire Station",
+    "district": "Naogaon",
+    "city": "Naogaon",
+    "address": "Niamatpur",
+    "serviceArea": "Niamatpur",
+    "contactInfo": {
+      "phone": "01901022267"
+    }
+  },
+  {
+    "name": "Mahochebpur Fire Station",
+    "district": "Naogaon",
+    "city": "Naogaon",
+    "address": "Mahochebpur",
+    "serviceArea": "Mahochebpur",
+    "contactInfo": {
+      "phone": "01901022259"
+    }
+  },
+  {
+    "name": "Roninagar Fire Station",
+    "district": "Naogaon",
+    "city": "Naogaon",
+    "address": "Roninagar",
+    "serviceArea": "Roninagar",
+    "contactInfo": {
+      "phone": "01901022271"
+    }
+  },
+  {
+    "name": "Mondo Foyer vation",
+    "district": "Naogaon",
+    "city": "Naogaon",
+    "address": "Mondo Foyer",
+    "serviceArea": "Mondo Foyer",
+    "contactInfo": {
+      "phone": "01901022265"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Natore",
+    "district": "Natore",
+    "city": "Natore",
+    "address": "Natore",
+    "serviceArea": "Natore",
+    "contactInfo": {
+      "phone": "01901022207"
+    }
+  },
+  {
+    "name": "Natore Fire Station",
+    "district": "Natore",
+    "city": "Natore",
+    "address": "Natore",
+    "serviceArea": "Natore",
+    "contactInfo": {
+      "phone": "01901022283"
+    }
+  },
+  {
+    "name": "Lalpur Fire Station",
+    "district": "Natore",
+    "city": "Natore",
+    "address": "Lalpur",
+    "serviceArea": "Lalpur",
+    "contactInfo": {
+      "phone": "01901022293"
+    }
+  },
+  {
+    "name": "Dayarampur Fire Station",
+    "district": "Natore",
+    "city": "Natore",
+    "address": "Dayarampur",
+    "serviceArea": "Dayarampur",
+    "contactInfo": {
+      "phone": "01901022285"
+    }
+  },
+  {
+    "name": "Gurdashpur Fire Station",
+    "district": "Natore",
+    "city": "Natore",
+    "address": "Gurdashpur",
+    "serviceArea": "Gurdashpur",
+    "contactInfo": {
+      "phone": "01901022289"
+    }
+  },
+  {
+    "name": "Bonporo Fire Station",
+    "district": "Natore",
+    "city": "Natore",
+    "address": "Bonporo",
+    "serviceArea": "Bonporo",
+    "contactInfo": {
+      "phone": "01901022287"
+    }
+  },
+  {
+    "name": "Si Ngo Fire Station",
+    "district": "Natore",
+    "city": "Natore",
+    "address": "Si Ngo",
+    "serviceArea": "Si Ngo",
+    "contactInfo": {
+      "phone": "01901022295"
+    }
+  },
+  {
+    "name": "Assistant Director, Bogura",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Bogura",
+    "serviceArea": "Bogura",
+    "contactInfo": {
+      "phone": "01901020124"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Bogura",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Bogura",
+    "serviceArea": "Bogura",
+    "contactInfo": {
+      "phone": "01901022211"
+    }
+  },
+  {
+    "name": "Bogura Fire Station",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Bogura",
+    "serviceArea": "Bogura",
+    "contactInfo": {
+      "phone": "01901022381"
+    }
+  },
+  {
+    "name": "Sonatlo Fire Station",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Sonatlo",
+    "serviceArea": "Sonatlo",
+    "contactInfo": {
+      "phone": "01901022411"
+    }
+  },
+  {
+    "name": "Saryakandi Fire Station",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Saryakandi",
+    "serviceArea": "Saryakandi",
+    "contactInfo": {
+      "phone": "01901022403"
+    }
+  },
+  {
+    "name": "Sherpur Fire Station",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Sherpur",
+    "serviceArea": "Sherpur",
+    "contactInfo": {
+      "phone": "01901022405"
+    }
+  },
+  {
+    "name": "Dhunat Fire Station",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Dhunat",
+    "serviceArea": "Dhunat",
+    "contactInfo": {
+      "phone": "01901022391"
+    }
+  },
+  {
+    "name": "Gabtali Fire Station",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Gabtali",
+    "serviceArea": "Gabtali",
+    "contactInfo": {
+      "phone": "01901022395"
+    }
+  },
+  {
+    "name": "Koholu Fire Station",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Koholu",
+    "serviceArea": "Koholu",
+    "contactInfo": {
+      "phone": "01901022399"
+    }
+  },
+  {
+    "name": "Nandigrom Fire Station",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Nandigrom",
+    "serviceArea": "Nandigrom",
+    "contactInfo": {
+      "phone": "01901022401"
+    }
+  },
+  {
+    "name": "Sasabganj Fire Station",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Sasabganj",
+    "serviceArea": "Sasabganj",
+    "contactInfo": {
+      "phone": "01901022407"
+    }
+  },
+  {
+    "name": "Dupe Us Yo Fire Station",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Dupe Us Yo",
+    "serviceArea": "Dupe Us Yo",
+    "contactInfo": {
+      "phone": "01901022393"
+    }
+  },
+  {
+    "name": "Shohjohonpur Fire Station",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Shohjohonpur",
+    "serviceArea": "Shohjohonpur",
+    "contactInfo": {
+      "phone": "01901022413"
+    }
+  },
+  {
+    "name": "Aemseghi Fire Station",
+    "district": "Bogura",
+    "city": "Bogura",
+    "address": "Aemseghi",
+    "serviceArea": "Aemseghi",
+    "contactInfo": {
+      "phone": "01901022387"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Jaipurhat",
+    "district": "Jaipurhat",
+    "city": "Jaipurhat",
+    "address": "Jaipurhat",
+    "serviceArea": "Jaipurhat",
+    "contactInfo": {
+      "phone": "01901022208"
+    }
+  },
+  {
+    "name": "Jaipurhat Fire Station",
+    "district": "Jaipurhat",
+    "city": "Jaipurhat",
+    "address": "Jaipurhat",
+    "serviceArea": "Jaipurhat",
+    "contactInfo": {
+      "phone": "01901022299"
+    }
+  },
+  {
+    "name": "Akkelpur Fire Station",
+    "district": "Jaipurhat",
+    "city": "Jaipurhat",
+    "address": "Akkelpur",
+    "serviceArea": "Akkelpur",
+    "contactInfo": {
+      "phone": "01901022301"
+    }
+  },
+  {
+    "name": "Panchbb Fire Station",
+    "district": "Jaipurhat",
+    "city": "Jaipurhat",
+    "address": "Panchbb",
+    "serviceArea": "Panchbb",
+    "contactInfo": {
+      "phone": "01901022305"
+    }
+  },
+  {
+    "name": "Kalai Fire Station",
+    "district": "Jaipurhat",
+    "city": "Jaipurhat",
+    "address": "Kalai",
+    "serviceArea": "Kalai",
+    "contactInfo": {
+      "phone": "01901022307"
+    }
+  },
+  {
+    "name": "Kshetlal Fire Station",
+    "district": "Jaipurhat",
+    "city": "Jaipurhat",
+    "address": "Kshetlal",
+    "serviceArea": "Kshetlal",
+    "contactInfo": {
+      "phone": "01901022303"
+    }
+  },
+  {
+    "name": "Assistant Director, Pabna",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Pabna",
+    "serviceArea": "Pabna",
+    "contactInfo": {
+      "phone": "01901020126"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Pabna",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Deputy",
+    "serviceArea": "Deputy",
+    "contactInfo": {
+      "phone": "01901022209"
+    }
+  },
+  {
+    "name": "Pabna Fire Station",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Pabna",
+    "serviceArea": "Pabna",
+    "contactInfo": {
+      "phone": "01901022325"
+    }
+  },
+  {
+    "name": "Ishwaradi Fire Station",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Ishwaradi",
+    "serviceArea": "Ishwaradi",
+    "contactInfo": {
+      "phone": "01901022335"
+    }
+  },
+  {
+    "name": "Bara Fire Station",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Bara",
+    "serviceArea": "Bara",
+    "contactInfo": {
+      "phone": "01901022329"
+    }
+  },
+  {
+    "name": "Sujanagar Fire Station",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Sujanagar",
+    "serviceArea": "Sujanagar",
+    "contactInfo": {
+      "phone": "01901022349"
+    }
+  },
+  {
+    "name": "Chatmohar Fire Station",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Chatmohar",
+    "serviceArea": "Chatmohar",
+    "contactInfo": {
+      "phone": "01901022331"
+    }
+  },
+  {
+    "name": "Ishwaradi EPZ Fire Station",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Ishwaradi EPZ",
+    "serviceArea": "Ishwaradi EPZ",
+    "contactInfo": {
+      "phone": "01901022335"
+    }
+  },
+  {
+    "name": "Faridpur Fire Station",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Faridpur",
+    "serviceArea": "Faridpur",
+    "contactInfo": {
+      "phone": "01901022333"
+    }
+  },
+  {
+    "name": "Koshnothpur Fire Station",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Koshnothpur",
+    "serviceArea": "Koshnothpur",
+    "contactInfo": {
+      "phone": "01901022345"
+    }
+  },
+  {
+    "name": "Rooppur Fire Station",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Rooppur",
+    "serviceArea": "Rooppur",
+    "contactInfo": {
+      "phone": "01901022341"
+    }
+  },
+  {
+    "name": "Atgharia Fire Station",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Atgharia",
+    "serviceArea": "Atgharia",
+    "contactInfo": {
+      "phone": "01901022327"
+    }
+  },
+  {
+    "name": "Sathia Fire Station",
+    "district": "Pabna",
+    "city": "Pabna",
+    "address": "Sathia",
+    "serviceArea": "Sathia",
+    "contactInfo": {
+      "phone": "01901022343"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Sirajganj",
+    "district": "Sirajganj",
+    "city": "Sirajganj",
+    "address": "Deputy",
+    "serviceArea": "Deputy",
+    "contactInfo": {
+      "phone": "01901022210"
+    }
+  },
+  {
+    "name": "Sirajganj Fire Station",
+    "district": "Sirajganj",
+    "city": "Sirajganj",
+    "address": "Sirajganj",
+    "serviceArea": "Sirajganj",
+    "contactInfo": {
+      "phone": "01901022353"
+    }
+  },
+  {
+    "name": "Ullapara Fire Station",
+    "district": "Sirajganj",
+    "city": "Sirajganj",
+    "address": "Ullapara",
+    "serviceArea": "Ullapara",
+    "contactInfo": {
+      "phone": "01901022375"
+    }
+  },
+  {
+    "name": "Shahjadpur Fire Station",
+    "district": "Sirajganj",
+    "city": "Sirajganj",
+    "address": "Shahjadpur",
+    "serviceArea": "Shahjadpur",
+    "contactInfo": {
+      "phone": "01901022369"
+    }
+  },
+  {
+    "name": "Kazipur Fire Station",
+    "district": "Sirajganj",
+    "city": "Sirajganj",
+    "address": "Kazipur",
+    "serviceArea": "Kazipur",
+    "contactInfo": {
+      "phone": "01901022363"
+    }
+  },
+  {
+    "name": "Raiganj Fire Station",
+    "district": "Sirajganj",
+    "city": "Sirajganj",
+    "address": "Raiganj",
+    "serviceArea": "Raiganj",
+    "contactInfo": {
+      "phone": "01901022365"
+    }
+  },
+  {
+    "name": "Belkuchi Fire Station",
+    "district": "Sirajganj",
+    "city": "Sirajganj",
+    "address": "Belkuchi",
+    "serviceArea": "Belkuchi",
+    "contactInfo": {
+      "phone": "01901022357"
+    }
+  },
+  {
+    "name": "Baghabari River Fire Station",
+    "district": "Sirajganj",
+    "city": "Sirajganj",
+    "address": "Baghabari River",
+    "serviceArea": "Baghabari River",
+    "contactInfo": {
+      "phone": "01901022371"
+    }
+  },
+  {
+    "name": "Komorkhand Fire Station",
+    "district": "Sirajganj",
+    "city": "Sirajganj",
+    "address": "Komorkhand",
+    "serviceArea": "Komorkhand",
+    "contactInfo": {
+      "phone": "01901022359"
+    }
+  },
+  {
+    "name": "Satellite Fire Station",
+    "district": "Sirajganj",
+    "city": "Sirajganj",
+    "address": "Satellite",
+    "serviceArea": "Satellite",
+    "contactInfo": {
+      "phone": "01313-425824"
+    }
+  },
+  {
+    "name": "Tarash Fire Station",
+    "district": "Sirajganj",
+    "city": "Sirajganj",
+    "address": "Tarash",
+    "serviceArea": "Tarash",
+    "contactInfo": {
+      "phone": "01901022373"
+    }
+  },
+  {
+    "name": "Deputy Director, Barisal",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Barisal",
+    "serviceArea": "Barisal",
+    "contactInfo": {
+      "phone": "01901020160"
+    }
+  },
+  {
+    "name": "Assistant Director, Barisal District",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Barisal",
+    "serviceArea": "Barisal",
+    "contactInfo": {
+      "phone": "01901020162"
+    }
+  },
+  {
+    "name": "Barisal Fire Station",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Barisal",
+    "serviceArea": "Barisal",
+    "contactInfo": {
+      "phone": "01901023921"
+    }
+  },
+  {
+    "name": "Barisal River Fire Station",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Barisal River",
+    "serviceArea": "Barisal River",
+    "contactInfo": {
+      "phone": "01901023923"
+    }
+  },
+  {
+    "name": "Gournadi Fire Station",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Gournadi",
+    "serviceArea": "Gournadi",
+    "contactInfo": {
+      "phone": "01901023931"
+    }
+  },
+  {
+    "name": "Banaripara Fire Station",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Banaripara",
+    "serviceArea": "Banaripara",
+    "contactInfo": {
+      "phone": "01901023937"
+    }
+  },
+  {
+    "name": "Wazirpur Fire Station",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Wazirpur",
+    "serviceArea": "Wazirpur",
+    "contactInfo": {
+      "phone": "01901023933"
+    }
+  },
+  {
+    "name": "Mehendiganj Fire Station",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Mehendiganj",
+    "serviceArea": "Mehendiganj",
+    "contactInfo": {
+      "phone": "01901023939"
+    }
+  },
+  {
+    "name": "Barisal South Fire Station",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Barisal South",
+    "serviceArea": "Barisal South",
+    "contactInfo": {
+      "phone": "01901023929"
+    }
+  },
+  {
+    "name": "Bakerganj Fire Station",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Bakerganj",
+    "serviceArea": "Bakerganj",
+    "contactInfo": {
+      "phone": "01901023943"
+    }
+  },
+  {
+    "name": "Babuganj Fire Station",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Babuganj",
+    "serviceArea": "Babuganj",
+    "contactInfo": {
+      "phone": "01901023941"
+    }
+  },
+  {
+    "name": "Hijla Fire Station",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Hijla",
+    "serviceArea": "Hijla",
+    "contactInfo": {
+      "phone": "01901023947"
+    }
+  },
+  {
+    "name": "Muladi Fire Station",
+    "district": "Barisal",
+    "city": "Barisal",
+    "address": "Muladi",
+    "serviceArea": "Muladi",
+    "contactInfo": {
+      "phone": "01901023949"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Pirojpur",
+    "district": "Pirojpur",
+    "city": "Pirojpur",
+    "address": "Pirojpur",
+    "serviceArea": "Pirojpur",
+    "contactInfo": {
+      "phone": "01901023904"
+    }
+  },
+  {
+    "name": "Pirojpur Fire Station",
+    "district": "Pirojpur",
+    "city": "Pirojpur",
+    "address": "Pirojpur",
+    "serviceArea": "Pirojpur",
+    "contactInfo": {
+      "phone": "01901023959"
+    }
+  },
+  {
+    "name": "Mathbaria Fire Station",
+    "district": "Pirojpur",
+    "city": "Pirojpur",
+    "address": "Mathbaria",
+    "serviceArea": "Mathbaria",
+    "contactInfo": {
+      "phone": "01901023963"
+    }
+  },
+  {
+    "name": "Bhandaria Fire Station",
+    "district": "Pirojpur",
+    "city": "Pirojpur",
+    "address": "Bhandaria",
+    "serviceArea": "Bhandaria",
+    "contactInfo": {
+      "phone": "01901023961"
+    }
+  },
+  {
+    "name": "Kaukhali Fire Station",
+    "district": "Pirojpur",
+    "city": "Pirojpur",
+    "address": "Kaukhali",
+    "serviceArea": "Kaukhali",
+    "contactInfo": {
+      "phone": "01901023967"
+    }
+  },
+  {
+    "name": "Nazirpur Fire Station",
+    "district": "Pirojpur",
+    "city": "Pirojpur",
+    "address": "Nazirpur",
+    "serviceArea": "Nazirpur",
+    "contactInfo": {
+      "phone": "01901023965"
+    }
+  },
+  {
+    "name": "Nesharabad Fire Station",
+    "district": "Pirojpur",
+    "city": "Pirojpur",
+    "address": "Nesharabad",
+    "serviceArea": "Nesharabad",
+    "contactInfo": {
+      "phone": "01901023969"
+    }
+  },
+  {
+    "name": "Indurkani Fire Station",
+    "district": "Pirojpur",
+    "city": "Pirojpur",
+    "address": "Indurkani",
+    "serviceArea": "Indurkani",
+    "contactInfo": {
+      "phone": "01901023973"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Jhalkathi",
+    "district": "Jhalkathi",
+    "city": "Jhalkathi",
+    "address": "Jhalkathi",
+    "serviceArea": "Jhalkathi",
+    "contactInfo": {
+      "phone": "01901023905"
+    }
+  },
+  {
+    "name": "Jhalkathi Fire Station",
+    "district": "Jhalkathi",
+    "city": "Jhalkathi",
+    "address": "Jhalkathi",
+    "serviceArea": "Jhalkathi",
+    "contactInfo": {
+      "phone": "01901023951"
+    }
+  },
+  {
+    "name": "Nalchiti Fire Station",
+    "district": "Jhalkathi",
+    "city": "Jhalkathi",
+    "address": "Nalchiti",
+    "serviceArea": "Nalchiti",
+    "contactInfo": {
+      "phone": "01901023955"
+    }
+  },
+  {
+    "name": "Kathalia Fire Station",
+    "district": "Jhalkathi",
+    "city": "Jhalkathi",
+    "address": "Kathalia",
+    "serviceArea": "Kathalia",
+    "contactInfo": {
+      "phone": "01901023953"
+    }
+  },
+  {
+    "name": "Rajapur Fire Station",
+    "district": "Jhalkathi",
+    "city": "Jhalkathi",
+    "address": "Rajapur",
+    "serviceArea": "Rajapur",
+    "contactInfo": {
+      "phone": "01901023957"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Bhola",
+    "district": "Bhola",
+    "city": "Bhola",
+    "address": "Bhola",
+    "serviceArea": "Bhola",
+    "contactInfo": {
+      "phone": "01901023906"
+    }
+  },
+  {
+    "name": "Bhola Fire Station",
+    "district": "Bhola",
+    "city": "Bhola",
+    "address": "Bhola",
+    "serviceArea": "Bhola",
+    "contactInfo": {
+      "phone": "01901023975"
+    }
+  },
+  {
+    "name": "Borhuddin Fire Station",
+    "district": "Bhola",
+    "city": "Bhola",
+    "address": "Borhuddin",
+    "serviceArea": "Borhuddin",
+    "contactInfo": {
+      "phone": "01901023979"
+    }
+  },
+  {
+    "name": "Charfashion Fire Station",
+    "district": "Bhola",
+    "city": "Bhola",
+    "address": "Charfashion",
+    "serviceArea": "Charfashion",
+    "contactInfo": {
+      "phone": "01901023981"
+    }
+  },
+  {
+    "name": "Lalmohan Fire Station",
+    "district": "Bhola",
+    "city": "Bhola",
+    "address": "Lalmohan",
+    "serviceArea": "Lalmohan",
+    "contactInfo": {
+      "phone": "01901023985"
+    }
+  },
+  {
+    "name": "Daulatkhan Fire Station",
+    "district": "Bhola",
+    "city": "Bhola",
+    "address": "Daulatkhan",
+    "serviceArea": "Daulatkhan",
+    "contactInfo": {
+      "phone": "01901023983"
+    }
+  },
+  {
+    "name": "Tajumuddin Fire Station",
+    "district": "Bhola",
+    "city": "Bhola",
+    "address": "Tajumuddin",
+    "serviceArea": "Tajumuddin",
+    "contactInfo": {
+      "phone": "01901023989"
+    }
+  },
+  {
+    "name": "Assistant Director, Patuakhali",
+    "district": "Patuakhali",
+    "city": "Patuakhali",
+    "address": "Patuakhali",
+    "serviceArea": "Patuakhali",
+    "contactInfo": {
+      "phone": "01901020164"
+    }
+  },
+  {
+    "name": "Patuakhali Fire Station",
+    "district": "Patuakhali",
+    "city": "Patuakhali",
+    "address": "Patuakhali",
+    "serviceArea": "Patuakhali",
+    "contactInfo": {
+      "phone": "01901023995"
+    }
+  },
+  {
+    "name": "Baufal Fire Station",
+    "district": "Patuakhali",
+    "city": "Patuakhali",
+    "address": "Baufal",
+    "serviceArea": "Baufal",
+    "contactInfo": {
+      "phone": "01901023999"
+    }
+  },
+  {
+    "name": "Khepupara Fire Station",
+    "district": "Patuakhali",
+    "city": "Patuakhali",
+    "address": "Khepupara",
+    "serviceArea": "Khepupara",
+    "contactInfo": {
+      "phone": "01901024009"
+    }
+  },
+  {
+    "name": "Mirzaganj Fire Station",
+    "district": "Patuakhali",
+    "city": "Patuakhali",
+    "address": "Mirzaganj",
+    "serviceArea": "Mirzaganj",
+    "contactInfo": {
+      "phone": "01901024007"
+    }
+  },
+  {
+    "name": "Patuakhali River Fire Station",
+    "district": "Patuakhali",
+    "city": "Patuakhali",
+    "address": "Patuakhali River",
+    "serviceArea": "Patuakhali River",
+    "contactInfo": {
+      "phone": "01901023997"
+    }
+  },
+  {
+    "name": "Dashmina Fire Station",
+    "district": "Patuakhali",
+    "city": "Patuakhali",
+    "address": "Dashmina",
+    "serviceArea": "Dashmina",
+    "contactInfo": {
+      "phone": "01901024001"
+    }
+  },
+  {
+    "name": "Assistant Director, Barguna",
+    "district": "Barguna",
+    "city": "Barguna",
+    "address": "Barguna",
+    "serviceArea": "Barguna",
+    "contactInfo": {
+      "phone": "01901023907"
+    }
+  },
+  {
+    "name": "Barguna Fire Station",
+    "district": "Barguna",
+    "city": "Barguna",
+    "address": "Barguna",
+    "serviceArea": "Barguna",
+    "contactInfo": {
+      "phone": "01901024017"
+    }
+  },
+  {
+    "name": "Amtali Fire Station",
+    "district": "Barguna",
+    "city": "Barguna",
+    "address": "Amtali",
+    "serviceArea": "Amtali",
+    "contactInfo": {
+      "phone": "01901024019"
+    }
+  },
+  {
+    "name": "Patharghata Fire Station",
+    "district": "Barguna",
+    "city": "Barguna",
+    "address": "Patharghata",
+    "serviceArea": "Patharghata",
+    "contactInfo": {
+      "phone": "01901024021"
+    }
+  },
+  {
+    "name": "Bina Fire Station",
+    "district": "Barguna",
+    "city": "Barguna",
+    "address": "Bina",
+    "serviceArea": "Bina",
+    "contactInfo": {
+      "phone": "01901024023"
+    }
+  },
+  {
+    "name": "Stobtaggi Fire Station",
+    "district": "Barguna",
+    "city": "Barguna",
+    "address": "Stobtaggi",
+    "serviceArea": "Stobtaggi",
+    "contactInfo": {
+      "phone": "01901024025"
+    }
+  },
+  {
+    "name": "Toltalal Foyor Jeshan",
+    "district": "Barguna",
+    "city": "Barguna",
+    "address": "Toltalal Foyor Jeshan",
+    "serviceArea": "Toltalal Foyor Jeshan",
+    "contactInfo": {
+      "phone": "01901024027"
+    }
+  },
+  {
+    "name": "Deputy Director, Khulna",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Khulna",
+    "serviceArea": "Khulna",
+    "contactInfo": {
+      "phone": "01901020130"
+    }
+  },
+  {
+    "name": "Assistant Director, Khulna",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Khulna",
+    "serviceArea": "Khulna",
+    "contactInfo": {
+      "phone": "01901020132"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Khulna",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Deputy",
+    "serviceArea": "Deputy",
+    "contactInfo": {
+      "phone": "01901022704"
+    }
+  },
+  {
+    "name": "Khulna Fire Station, Yora",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Khulna Fire Station, Yora",
+    "serviceArea": "Khulna Fire Station, Yora",
+    "contactInfo": {
+      "phone": "01901022730"
+    }
+  },
+  {
+    "name": "Kharlashpur Fire Station",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Kharlashpur",
+    "serviceArea": "Kharlashpur",
+    "contactInfo": {
+      "phone": "01901022732"
+    }
+  },
+  {
+    "name": "J Aulatpur Fire Station",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "J Aulatpur",
+    "serviceArea": "J Aulatpur",
+    "contactInfo": {
+      "phone": "01901022736"
+    }
+  },
+  {
+    "name": "Tutpara Fire Station",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Tutpara",
+    "serviceArea": "Tutpara",
+    "contactInfo": {
+      "phone": "01901022734"
+    }
+  },
+  {
+    "name": "Khulna New Fire Station",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Khulna New",
+    "serviceArea": "Khulna New",
+    "contactInfo": {
+      "phone": "01901022738"
+    }
+  },
+  {
+    "name": "Khulna Ground-Commissioned Fire Station",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Khulna Ground-Commissioned",
+    "serviceArea": "Khulna Ground-Commissioned",
+    "contactInfo": {
+      "phone": "01901022748"
+    }
+  },
+  {
+    "name": "Khanohan Ali Fire Station",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Khanohan Ali",
+    "serviceArea": "Khanohan Ali",
+    "contactInfo": {
+      "phone": "01901022744"
+    }
+  },
+  {
+    "name": "Rupsa Fire Station",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Rupsa",
+    "serviceArea": "Rupsa",
+    "contactInfo": {
+      "phone": "01901022752"
+    }
+  },
+  {
+    "name": "Dumurraya Fire Station",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Dumurraya",
+    "serviceArea": "Dumurraya",
+    "contactInfo": {
+      "phone": "01901022750"
+    }
+  },
+  {
+    "name": "Afcup Fire Station",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Afcup",
+    "serviceArea": "Afcup",
+    "contactInfo": {
+      "phone": "01901022758"
+    }
+  },
+  {
+    "name": "Itiyaghata Fire Station",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Itiyaghata",
+    "serviceArea": "Itiyaghata",
+    "contactInfo": {
+      "phone": "01901022756"
+    }
+  },
+  {
+    "name": "Jatarkha Fire Station",
+    "district": "Khulna",
+    "city": "Khulna",
+    "address": "Jatarkha",
+    "serviceArea": "Jatarkha",
+    "contactInfo": {
+      "phone": "01901022760"
+    }
+  },
+  {
+    "name": "Assistant Director",
+    "district": "Satkhira",
+    "city": "Satkhira",
+    "address": "Assistant",
+    "serviceArea": "Assistant",
+    "contactInfo": {
+      "phone": "01901022706"
+    }
+  },
+  {
+    "name": "Satkhira Fire Station",
+    "district": "Satkhira",
+    "city": "Satkhira",
+    "address": "Satkhira",
+    "serviceArea": "Satkhira",
+    "contactInfo": {
+      "phone": "01901022796"
+    }
+  },
+  {
+    "name": "Jihata Fire Station",
+    "district": "Satkhira",
+    "city": "Satkhira",
+    "address": "Jihata",
+    "serviceArea": "Jihata",
+    "contactInfo": {
+      "phone": "01901022806"
+    }
+  },
+  {
+    "name": "Karlganj Fire Station",
+    "district": "Satkhira",
+    "city": "Satkhira",
+    "address": "Karlganj",
+    "serviceArea": "Karlganj",
+    "contactInfo": {
+      "phone": "01901022800"
+    }
+  },
+  {
+    "name": "Asashuni Fire Station",
+    "district": "Satkhira",
+    "city": "Satkhira",
+    "address": "Asashuni",
+    "serviceArea": "Asashuni",
+    "contactInfo": {
+      "phone": "01901022798"
+    }
+  },
+  {
+    "name": "Kalafraya Fire Station",
+    "district": "Satkhira",
+    "city": "Satkhira",
+    "address": "Kalafraya",
+    "serviceArea": "Kalafraya",
+    "contactInfo": {
+      "phone": "01901022804"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Narail",
+    "district": "Narail",
+    "city": "Narail",
+    "address": "Narail",
+    "serviceArea": "Narail",
+    "contactInfo": {
+      "phone": "01901022720"
+    }
+  },
+  {
+    "name": "Narail Fire Station",
+    "district": "Narail",
+    "city": "Narail",
+    "address": "Narail",
+    "serviceArea": "Narail",
+    "contactInfo": {
+      "phone": "01901022860"
+    }
+  },
+  {
+    "name": "Jalahagra Fire Station",
+    "district": "Narail",
+    "city": "Narail",
+    "address": "Jalahagra",
+    "serviceArea": "Jalahagra",
+    "contactInfo": {
+      "phone": "01901022864"
+    }
+  },
+  {
+    "name": "Karloya Fire Station",
+    "district": "Narail",
+    "city": "Narail",
+    "address": "Karloya",
+    "serviceArea": "Karloya",
+    "contactInfo": {
+      "phone": "01901022866"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Magura",
+    "district": "Magura",
+    "city": "Magura",
+    "address": "Magura",
+    "serviceArea": "Magura",
+    "contactInfo": {
+      "phone": "01901022708"
+    }
+  },
+  {
+    "name": "Magura Fire Station",
+    "district": "Magura",
+    "city": "Magura",
+    "address": "Magura",
+    "serviceArea": "Magura",
+    "contactInfo": {
+      "phone": "01901022868"
+    }
+  },
+  {
+    "name": "Jamahampur Fire Station",
+    "district": "Magura",
+    "city": "Magura",
+    "address": "Jamahampur",
+    "serviceArea": "Jamahampur",
+    "contactInfo": {
+      "phone": "01901022872"
+    }
+  },
+  {
+    "name": "Sripur Fire Station",
+    "district": "Magura",
+    "city": "Magura",
+    "address": "Sripur",
+    "serviceArea": "Sripur",
+    "contactInfo": {
+      "phone": "01901022874"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Chuyanga",
+    "district": "Chuyanga",
+    "city": "Chuyanga",
+    "address": "Chuyanga",
+    "serviceArea": "Chuyanga",
+    "contactInfo": {
+      "phone": "01901022710"
+    }
+  },
+  {
+    "name": "Chuyanga Fire Station",
+    "district": "Chuyanga",
+    "city": "Chuyanga",
+    "address": "Chuyanga",
+    "serviceArea": "Chuyanga",
+    "contactInfo": {
+      "phone": "01901022898"
+    }
+  },
+  {
+    "name": "Almyanga Fire Station",
+    "district": "Chuyanga",
+    "city": "Chuyanga",
+    "address": "Almyanga",
+    "serviceArea": "Almyanga",
+    "contactInfo": {
+      "phone": "01901022902"
+    }
+  },
+  {
+    "name": "Jinnagar Fire Station",
+    "district": "Chuyanga",
+    "city": "Chuyanga",
+    "address": "Jinnagar",
+    "serviceArea": "Jinnagar",
+    "contactInfo": {
+      "phone": "01901022906"
+    }
+  },
+  {
+    "name": "Shania Fire Station",
+    "district": "Chuyanga",
+    "city": "Chuyanga",
+    "address": "Shania",
+    "serviceArea": "Shania",
+    "contactInfo": {
+      "phone": "01901022908"
+    }
+  },
+  {
+    "name": "Deputy Director Chittagong",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Chittagong",
+    "serviceArea": "Chittagong",
+    "contactInfo": {
+      "phone": "01901020110"
+    }
+  },
+  {
+    "name": "Assistant Director, Chittagong District",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Chittagong",
+    "serviceArea": "Chittagong",
+    "contactInfo": {
+      "phone": "01901020112"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director Chittagong-1",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Deputy",
+    "serviceArea": "Deputy",
+    "contactInfo": {
+      "phone": "01901021506"
+    }
+  },
+  {
+    "name": "Agrabad Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Agrabad",
+    "serviceArea": "Agrabad",
+    "contactInfo": {
+      "phone": "01901021541"
+    }
+  },
+  {
+    "name": "Bandar Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Bandar",
+    "serviceArea": "Bandar",
+    "contactInfo": {
+      "phone": "01901021555"
+    }
+  },
+  {
+    "name": "CEPZ Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "CEPZ",
+    "serviceArea": "CEPZ",
+    "contactInfo": {
+      "phone": "01901021551"
+    }
+  },
+  {
+    "name": "Kumira Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Kumira",
+    "serviceArea": "Kumira",
+    "contactInfo": {
+      "phone": "01901021591"
+    }
+  },
+  {
+    "name": "Sitakunda Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Sitakunda",
+    "serviceArea": "Sitakunda",
+    "contactInfo": {
+      "phone": "01901021589"
+    }
+  },
+  {
+    "name": "Mirersai Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Mirersai",
+    "serviceArea": "Mirersai",
+    "contactInfo": {
+      "phone": "01901021577"
+    }
+  },
+  {
+    "name": "Samudraghai Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Samudraghai",
+    "serviceArea": "Samudraghai",
+    "contactInfo": {
+      "phone": "01901021561"
+    }
+  },
+  {
+    "name": "Newmooring Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Newmooring",
+    "serviceArea": "Newmooring",
+    "contactInfo": {
+      "phone": "01901021547"
+    }
+  },
+  {
+    "name": "Sandeep Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Sandeep",
+    "serviceArea": "Sandeep",
+    "contactInfo": {
+      "phone": "01901021587"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Chittagong Zone-2",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Chittagong",
+    "serviceArea": "Chittagong",
+    "contactInfo": {
+      "phone": "01901021506"
+    }
+  },
+  {
+    "name": "Patia Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Patia",
+    "serviceArea": "Patia",
+    "contactInfo": {
+      "phone": "01901021601"
+    }
+  },
+  {
+    "name": "Satkania Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Satkania",
+    "serviceArea": "Satkania",
+    "contactInfo": {
+      "phone": "01901021603"
+    }
+  },
+  {
+    "name": "Nandankanan Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Nandankanan",
+    "serviceArea": "Nandankanan",
+    "contactInfo": {
+      "phone": "01901021545"
+    }
+  },
+  {
+    "name": "Chandanpura Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Chandanpura",
+    "serviceArea": "Chandanpura",
+    "contactInfo": {
+      "phone": "01901021559"
+    }
+  },
+  {
+    "name": "Lamarbazar Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Lamarbazar",
+    "serviceArea": "Lamarbazar",
+    "contactInfo": {
+      "phone": "01901021549"
+    }
+  },
+  {
+    "name": "Boalkhali Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Boalkhali",
+    "serviceArea": "Boalkhali",
+    "contactInfo": {
+      "phone": "01901021597"
+    }
+  },
+  {
+    "name": "Anwara Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Anwara",
+    "serviceArea": "Anwara",
+    "contactInfo": {
+      "phone": "01901021593"
+    }
+  },
+  {
+    "name": "Banskhali Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Banskhali",
+    "serviceArea": "Banskhali",
+    "contactInfo": {
+      "phone": "01901021595"
+    }
+  },
+  {
+    "name": "Chandanish Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Chandanish",
+    "serviceArea": "Chandanish",
+    "contactInfo": {
+      "phone": "01901021599"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Chittagong Zone-3",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Chittagong",
+    "serviceArea": "Chittagong",
+    "contactInfo": {
+      "phone": "01901021508"
+    }
+  },
+  {
+    "name": "Kaptai Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Kaptai",
+    "serviceArea": "Kaptai",
+    "contactInfo": {
+      "phone": "01901021641"
+    }
+  },
+  {
+    "name": "Kalurghat Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Kalurghat",
+    "serviceArea": "Kalurghat",
+    "contactInfo": {
+      "phone": "01901021557"
+    }
+  },
+  {
+    "name": "Rouzan Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Rouzan",
+    "serviceArea": "Rouzan",
+    "contactInfo": {
+      "phone": "01901021583"
+    }
+  },
+  {
+    "name": "Phatakhari Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Phatakhari",
+    "serviceArea": "Phatakhari",
+    "contactInfo": {
+      "phone": "01901021571"
+    }
+  },
+  {
+    "name": "Hathazari Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Hathazari",
+    "serviceArea": "Hathazari",
+    "contactInfo": {
+      "phone": "01901021575"
+    }
+  },
+  {
+    "name": "Bayezid Fire Station",
+    "district": "Chittagong",
+    "city": "Chittagong",
+    "address": "Bayezid",
+    "serviceArea": "Bayezid",
+    "contactInfo": {
+      "phone": "01901021543"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Cox's Bazar",
+    "district": "Cox_s_Bazar",
+    "city": "Cox's Bazar",
+    "address": "Cox_s_Bazar",
+    "serviceArea": "Cox_s_Bazar",
+    "contactInfo": {
+      "phone": "01901021511"
+    }
+  },
+  {
+    "name": "Cox's Bazar Fire Station",
+    "district": "Cox_s_Bazar",
+    "city": "Cox's Bazar",
+    "address": "Cox's, Cox_s_Bazar",
+    "serviceArea": "Cox's, Cox_s_Bazar, cox's Bazar",
+    "contactInfo": {
+      "phone": "01901021607"
+    }
+  },
+  {
+    "name": "Chakoria Fire Station",
+    "district": "Cox_s_Bazar",
+    "city": "Cox's Bazar",
+    "address": "Chakoria",
+    "serviceArea": "Chakoria",
+    "contactInfo": {
+      "phone": "01901021617"
+    }
+  },
+  {
+    "name": "Pequa Fire Station",
+    "district": "Cox_s_Bazar",
+    "city": "Cox's Bazar",
+    "address": "Pequa",
+    "serviceArea": "Pequa",
+    "contactInfo": {
+      "phone": "01901021617"
+    }
+  },
+  {
+    "name": "Teknaf Baraya",
+    "district": "Cox_s_Bazar",
+    "city": "Cox's Bazar",
+    "address": "Teknaf",
+    "serviceArea": "Teknaf",
+    "contactInfo": {
+      "phone": "01901021625"
+    }
+  },
+  {
+    "name": "Maheshkhali Fire Station",
+    "district": "Cox_s_Bazar",
+    "city": "Cox's Bazar",
+    "address": "Maheshkhali",
+    "serviceArea": "Maheshkhali",
+    "contactInfo": {
+      "phone": "01901021618"
+    }
+  },
+  {
+    "name": "Ukhia Fire Station",
+    "district": "Cox_s_Bazar",
+    "city": "Cox's Bazar",
+    "address": "Ukhia",
+    "serviceArea": "Ukhia",
+    "contactInfo": {
+      "phone": "01901021627"
+    }
+  },
+  {
+    "name": "Ramu Fire Station",
+    "district": "Cox_s_Bazar",
+    "city": "Cox's Bazar",
+    "address": "Ramu",
+    "serviceArea": "Ramu",
+    "contactInfo": {
+      "phone": "01901021621"
+    }
+  },
+  {
+    "name": "Assistant Director, Bandarban",
+    "district": "Bandarban",
+    "city": "Bandarban",
+    "address": "Bandarban",
+    "serviceArea": "Bandarban",
+    "contactInfo": {
+      "phone": "01901020119"
+    }
+  },
+  {
+    "name": "Bandarban Fire Station",
+    "district": "Bandarban",
+    "city": "Bandarban",
+    "address": "Bandarban",
+    "serviceArea": "Bandarban",
+    "contactInfo": {
+      "phone": "01901021679"
+    }
+  },
+  {
+    "name": "Lama Fire Station",
+    "district": "Bandarban",
+    "city": "Bandarban",
+    "address": "Lama",
+    "serviceArea": "Lama",
+    "contactInfo": {
+      "phone": "01901021685"
+    }
+  },
+  {
+    "name": "Staraangchakhi Fire Station",
+    "district": "Bandarban",
+    "city": "Bandarban",
+    "address": "Staraangchakhi",
+    "serviceArea": "Staraangchakhi",
+    "contactInfo": {
+      "phone": "01901021687"
+    }
+  },
+  {
+    "name": "Alikadam Fire Station",
+    "district": "Bandarban",
+    "city": "Bandarban",
+    "address": "Alikadam",
+    "serviceArea": "Alikadam",
+    "contactInfo": {
+      "phone": "01901021683"
+    }
+  },
+  {
+    "name": "Thankhach Fire Station",
+    "district": "Bandarban",
+    "city": "Bandarban",
+    "address": "Thankhach",
+    "serviceArea": "Thankhach",
+    "contactInfo": {
+      "phone": "01901021689"
+    }
+  },
+  {
+    "name": "Ruma Fire Station",
+    "district": "Bandarban",
+    "city": "Bandarban",
+    "address": "Ruma",
+    "serviceArea": "Ruma",
+    "contactInfo": {
+      "phone": "01901021691"
+    }
+  },
+  {
+    "name": "Assistant Director, Rangamati",
+    "district": "Rangamati",
+    "city": "Rangamati",
+    "address": "Rangamati",
+    "serviceArea": "Rangamati",
+    "contactInfo": {
+      "phone": "01901020118"
+    }
+  },
+  {
+    "name": "Rangamati Fire Station",
+    "district": "Rangamati",
+    "city": "Rangamati",
+    "address": "Rangamati",
+    "serviceArea": "Rangamati",
+    "contactInfo": {
+      "phone": "01901021637"
+    }
+  },
+  {
+    "name": "Kaptai Fire Station",
+    "district": "Rangamati",
+    "city": "Rangamati",
+    "address": "Kaptai",
+    "serviceArea": "Kaptai",
+    "contactInfo": {
+      "phone": "01901021641"
+    }
+  },
+  {
+    "name": "Kawiali Fire Station",
+    "district": "Rangamati",
+    "city": "Rangamati",
+    "address": "Kawiali",
+    "serviceArea": "Kawiali",
+    "contactInfo": {
+      "phone": "01901021643"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Khagrachari",
+    "district": "Khagrachari",
+    "city": "Khagrachari",
+    "address": "Khagrachari",
+    "serviceArea": "Khagrachari",
+    "contactInfo": {
+      "phone": "01901021518"
+    }
+  },
+  {
+    "name": "Khagrachari Fire Station",
+    "district": "Khagrachari",
+    "city": "Khagrachari",
+    "address": "Khagrachari",
+    "serviceArea": "Khagrachari",
+    "contactInfo": {
+      "phone": "01901021661"
+    }
+  },
+  {
+    "name": "Ramgarh Fire Station",
+    "district": "Khagrachari",
+    "city": "Khagrachari",
+    "address": "Ramgarh",
+    "serviceArea": "Ramgarh",
+    "contactInfo": {
+      "phone": "01901021665"
+    }
+  },
+  {
+    "name": "Dighinala Fire Station",
+    "district": "Khagrachari",
+    "city": "Khagrachari",
+    "address": "Dighinala",
+    "serviceArea": "Dighinala",
+    "contactInfo": {
+      "phone": "01901021663"
+    }
+  },
+  {
+    "name": "Lakhsichakhi Fire Station",
+    "district": "Khagrachari",
+    "city": "Khagrachari",
+    "address": "Lakhsichakhi",
+    "serviceArea": "Lakhsichakhi",
+    "contactInfo": {
+      "phone": "01901021669"
+    }
+  },
+  {
+    "name": "Matiranga Fire Station",
+    "district": "Khagrachari",
+    "city": "Khagrachari",
+    "address": "Matiranga",
+    "serviceArea": "Matiranga",
+    "contactInfo": {
+      "phone": "01901021667"
+    }
+  },
+  {
+    "name": "Panchakhi Fire Station",
+    "district": "Khagrachari",
+    "city": "Khagrachari",
+    "address": "Panchakhi",
+    "serviceArea": "Panchakhi",
+    "contactInfo": {
+      "phone": "01901021671"
+    }
+  },
+  {
+    "name": "Assistant Director, Comilla",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "Comilla",
+    "serviceArea": "Comilla",
+    "contactInfo": {
+      "phone": "01901020114"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Comilla",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "Comilla",
+    "serviceArea": "Comilla",
+    "contactInfo": {
+      "phone": "01901021510"
+    }
+  },
+  {
+    "name": "Comilla Fire Station",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "Comilla",
+    "serviceArea": "Comilla",
+    "contactInfo": {
+      "phone": "01901021695"
+    }
+  },
+  {
+    "name": "Daulatganj Bazar (Laksam) Fire Station",
+    "district": "Comilla",
+    "city": "Laksam",
+    "address": "Daulatganj Bazar (Laksam)",
+    "serviceArea": "Daulatganj Bazar (Laksam)",
+    "contactInfo": {
+      "phone": "01901021717"
+    }
+  },
+  {
+    "name": "EPZ Fire Station",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "EPZ",
+    "serviceArea": "EPZ",
+    "contactInfo": {
+      "phone": "01901021699"
+    }
+  },
+  {
+    "name": "Barura Fire Station",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "Barura",
+    "serviceArea": "Barura",
+    "contactInfo": {
+      "phone": "01901021715"
+    }
+  },
+  {
+    "name": "Chouddagram Fire Station",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "Chouddagram",
+    "serviceArea": "Chouddagram",
+    "contactInfo": {
+      "phone": "01901021711"
+    }
+  },
+  {
+    "name": "Daudkandi Fire Station",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "Daudkandi",
+    "serviceArea": "Daudkandi",
+    "contactInfo": {
+      "phone": "01901021703"
+    }
+  },
+  {
+    "name": "Chowara Bazar Fire Station",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "Chowara Bazar",
+    "serviceArea": "Chowara Bazar",
+    "contactInfo": {
+      "phone": "01901021697"
+    }
+  },
+  {
+    "name": "Chandina Fire Station",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "Chandina",
+    "serviceArea": "Chandina",
+    "contactInfo": {
+      "phone": "01901021701"
+    }
+  },
+  {
+    "name": "Homna Fire Station",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "Homna",
+    "serviceArea": "Homna",
+    "contactInfo": {
+      "phone": "01901021705"
+    }
+  },
+  {
+    "name": "Muradnagar Fire Station",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "Muradnagar",
+    "serviceArea": "Muradnagar",
+    "contactInfo": {
+      "phone": "01901021707"
+    }
+  },
+  {
+    "name": "Burichong Fire Station",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "Burichong",
+    "serviceArea": "Burichong",
+    "contactInfo": {
+      "phone": "01901021713"
+    }
+  },
+  {
+    "name": "Steghna Fire Station",
+    "district": "Comilla",
+    "city": "Comilla",
+    "address": "Steghna",
+    "serviceArea": "Steghna",
+    "contactInfo": {
+      "phone": "01901021721"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Brahmanbaria",
+    "district": "Brahmanbaria",
+    "city": "Brahmanbaria",
+    "address": "Brahmanbaria",
+    "serviceArea": "Brahmanbaria",
+    "contactInfo": {
+      "phone": "01901021514"
+    }
+  },
+  {
+    "name": "Brahmanbaria Fire Station",
+    "district": "Brahmanbaria",
+    "city": "Brahmanbaria",
+    "address": "Brahmanbaria",
+    "serviceArea": "Brahmanbaria",
+    "contactInfo": {
+      "phone": "01901021735"
+    }
+  },
+  {
+    "name": "Ashuganj Fire Station",
+    "district": "Brahmanbaria",
+    "city": "Brahmanbaria",
+    "address": "Ashuganj",
+    "serviceArea": "Ashuganj",
+    "contactInfo": {
+      "phone": "01901021737"
+    }
+  },
+  {
+    "name": "Akhaura Fire Station",
+    "district": "Brahmanbaria",
+    "city": "Brahmanbaria",
+    "address": "Akhaura",
+    "serviceArea": "Akhaura",
+    "contactInfo": {
+      "phone": "01901021739"
+    }
+  },
+  {
+    "name": "Bancharampur Fire Station",
+    "district": "Brahmanbaria",
+    "city": "Brahmanbaria",
+    "address": "Bancharampur",
+    "serviceArea": "Bancharampur",
+    "contactInfo": {
+      "phone": "01901021743"
+    }
+  },
+  {
+    "name": "Kasba Kuti Fire Station",
+    "district": "Brahmanbaria",
+    "city": "Brahmanbaria",
+    "address": "Kasba Kuti",
+    "serviceArea": "Kasba Kuti",
+    "contactInfo": {
+      "phone": "01901021745"
+    }
+  },
+  {
+    "name": "Nabinagar Fire Station",
+    "district": "Brahmanbaria",
+    "city": "Brahmanbaria",
+    "address": "Nabinagar",
+    "serviceArea": "Nabinagar",
+    "contactInfo": {
+      "phone": "01901021749"
+    }
+  },
+  {
+    "name": "Nasirnagar Fire Station",
+    "district": "Brahmanbaria",
+    "city": "Brahmanbaria",
+    "address": "Nasirnagar",
+    "serviceArea": "Nasirnagar",
+    "contactInfo": {
+      "phone": "01901021751"
+    }
+  },
+  {
+    "name": "Sarail Fire Station",
+    "district": "Brahmanbaria",
+    "city": "Brahmanbaria",
+    "address": "Sarail",
+    "serviceArea": "Sarail",
+    "contactInfo": {
+      "phone": "01901021747"
+    }
+  },
+  {
+    "name": "Vijaynagar Fire Station",
+    "district": "Brahmanbaria",
+    "city": "Brahmanbaria",
+    "address": "Vijaynagar",
+    "serviceArea": "Vijaynagar",
+    "contactInfo": {
+      "phone": "01901021753"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Chandpur",
+    "district": "Chandpur",
+    "city": "Chandpur",
+    "address": "Chandpur",
+    "serviceArea": "Chandpur",
+    "contactInfo": {
+      "phone": "01901021515"
+    }
+  },
+  {
+    "name": "Chandpur (North) Fire Station",
+    "district": "Chandpur",
+    "city": "Chandpur",
+    "address": "Chandpur",
+    "serviceArea": "Chandpur",
+    "contactInfo": {
+      "phone": "01901021755"
+    }
+  },
+  {
+    "name": "Chandpur South Fire Station",
+    "district": "Chandpur",
+    "city": "Chandpur",
+    "address": "Chandpur South",
+    "serviceArea": "Chandpur",
+    "contactInfo": {
+      "phone": "01901021757"
+    }
+  },
+  {
+    "name": "Chandpur River Fire Station",
+    "district": "Chandpur",
+    "city": "Chandpur",
+    "address": "Chandpur River",
+    "serviceArea": "Chandpur",
+    "contactInfo": {
+      "phone": "01901021759"
+    }
+  },
+  {
+    "name": "Hajiganj Fire Station",
+    "district": "Chandpur",
+    "city": "Chandpur",
+    "address": "Hajiganj",
+    "serviceArea": "Hajiganj",
+    "contactInfo": {
+      "phone": "01901021761"
+    }
+  },
+  {
+    "name": "Kachua Fire Station",
+    "district": "Chandpur",
+    "city": "Chandpur",
+    "address": "Kachua",
+    "serviceArea": "Kachua",
+    "contactInfo": {
+      "phone": "01901021765"
+    }
+  },
+  {
+    "name": "Shahrasti Fire Station",
+    "district": "Chandpur",
+    "city": "Chandpur",
+    "address": "Shahrasti",
+    "serviceArea": "Shahrasti",
+    "contactInfo": {
+      "phone": "01901021769"
+    }
+  },
+  {
+    "name": "Haimchar Fire Station",
+    "district": "Chandpur",
+    "city": "Chandpur",
+    "address": "Haimchar",
+    "serviceArea": "Haimchar",
+    "contactInfo": {
+      "phone": "01901021763"
+    }
+  },
+  {
+    "name": "Matlab Dakhkshan Fire Station",
+    "district": "Chandpur",
+    "city": "Chandpur",
+    "address": "Matlab Dakhkshan",
+    "serviceArea": "Matlab Dakhkshan",
+    "contactInfo": {
+      "phone": "01901021767"
+    }
+  },
+  {
+    "name": "Fakhradganj Fire Station",
+    "district": "Chandpur",
+    "city": "Chandpur",
+    "address": "Fakhradganj",
+    "serviceArea": "Fakhradganj",
+    "contactInfo": {
+      "phone": "01901021773"
+    }
+  },
+  {
+    "name": "Assistant Director, Noakhali",
+    "district": "Noakhali",
+    "city": "Noakhali",
+    "address": "Noakhali",
+    "serviceArea": "Noakhali",
+    "contactInfo": {
+      "phone": "01901020116"
+    }
+  },
+  {
+    "name": "Maizdi Fire Station",
+    "district": "Noakhali",
+    "city": "Noakhali",
+    "address": "Maizdi",
+    "serviceArea": "Maizdi",
+    "contactInfo": {
+      "phone": "01901021775"
+    }
+  },
+  {
+    "name": "Chowmuhani Fire Station",
+    "district": "Noakhali",
+    "city": "Noakhali",
+    "address": "Chowmuhani",
+    "serviceArea": "Chowmuhani",
+    "contactInfo": {
+      "phone": "01901021783"
+    }
+  },
+  {
+    "name": "Companyganj Fire Station",
+    "district": "Noakhali",
+    "city": "Noakhali",
+    "address": "Companyganj",
+    "serviceArea": "Companyganj",
+    "contactInfo": {
+      "phone": "01901021789"
+    }
+  },
+  {
+    "name": "Sonaimuri Fire Station",
+    "district": "Noakhali",
+    "city": "Noakhali",
+    "address": "Sonaimuri",
+    "serviceArea": "Sonaimuri",
+    "contactInfo": {
+      "phone": "01901021787"
+    }
+  },
+  {
+    "name": "Chatkhil Fire Station",
+    "district": "Noakhali",
+    "city": "Noakhali",
+    "address": "Chatkhil",
+    "serviceArea": "Chatkhil",
+    "contactInfo": {
+      "phone": "01901021781"
+    }
+  },
+  {
+    "name": "Subanachanar Fire Station",
+    "district": "Noakhali",
+    "city": "Noakhali",
+    "address": "Subanachanar",
+    "serviceArea": "Subanachanar",
+    "contactInfo": {
+      "phone": "01901021797"
+    }
+  },
+  {
+    "name": "Hakhtaya Fire Station",
+    "district": "Noakhali",
+    "city": "Noakhali",
+    "address": "Hakhtaya",
+    "serviceArea": "Hakhtaya",
+    "contactInfo": {
+      "phone": "01901021791"
+    }
+  },
+  {
+    "name": "Kakhbarhat Fire Station",
+    "district": "Noakhali",
+    "city": "Noakhali",
+    "address": "Kakhbarhat",
+    "serviceArea": "Kakhbarhat",
+    "contactInfo": {
+      "phone": "01901021795"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Lakshmipur",
+    "district": "Lakshmipur",
+    "city": "Lakshmipur",
+    "address": "Lakshmipur",
+    "serviceArea": "Lakshmipur",
+    "contactInfo": {
+      "phone": "01901021516"
+    }
+  },
+  {
+    "name": "Lakshmipur Fire Station",
+    "district": "Lakshmipur",
+    "city": "Lakshmipur",
+    "address": "Lakshmipur",
+    "serviceArea": "Lakshmipur",
+    "contactInfo": {
+      "phone": "01901021805"
+    }
+  },
+  {
+    "name": "Ramganj Fire Station",
+    "district": "Lakshmipur",
+    "city": "Lakshmipur",
+    "address": "Ramganj",
+    "serviceArea": "Ramganj",
+    "contactInfo": {
+      "phone": "01901021813"
+    }
+  },
+  {
+    "name": "Ramgatti Fire Station",
+    "district": "Lakshmipur",
+    "city": "Lakshmipur",
+    "address": "Ramgatti",
+    "serviceArea": "Ramgatti",
+    "contactInfo": {
+      "phone": "01901021815"
+    }
+  },
+  {
+    "name": "Kamalnagar Fire Station",
+    "district": "Lakshmipur",
+    "city": "Lakshmipur",
+    "address": "Kamalnagar",
+    "serviceArea": "Kamalnagar",
+    "contactInfo": {
+      "phone": "01901021817"
+    }
+  },
+  {
+    "name": "Raipur Fire Station",
+    "district": "Lakshmipur",
+    "city": "Lakshmipur",
+    "address": "Raipur",
+    "serviceArea": "Raipur",
+    "contactInfo": {
+      "phone": "01901021811"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Feni",
+    "district": "Feni",
+    "city": "Feni",
+    "address": "Feni",
+    "serviceArea": "Feni",
+    "contactInfo": {
+      "phone": "01901021534"
+    }
+  },
+  {
+    "name": "Feni Fire Station",
+    "district": "Feni",
+    "city": "Feni",
+    "address": "Feni",
+    "serviceArea": "Feni",
+    "contactInfo": {
+      "phone": "01901021823"
+    }
+  },
+  {
+    "name": "Chagalnaya Fire Station",
+    "district": "Feni",
+    "city": "Feni",
+    "address": "Chagalnaya",
+    "serviceArea": "Chagalnaya",
+    "contactInfo": {
+      "phone": "01901021825"
+    }
+  },
+  {
+    "name": "Deputy Director, Dhaka Division",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Dhaka",
+    "serviceArea": "Dhaka",
+    "contactInfo": {
+      "phone": "01901020100"
+    }
+  },
+  {
+    "name": "Assistant Director, Dhaka",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Dhaka",
+    "serviceArea": "Dhaka",
+    "contactInfo": {
+      "phone": "01901020102"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Zone-1",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Dhaka, Zone-1",
+    "serviceArea": "Dhaka , Zone-1",
+    "contactInfo": {
+      "phone": "01901020704"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Zone-2",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Zone-2",
+    "serviceArea": "Dhaka",
+    "contactInfo": {
+      "phone": "01901020705"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Zone-3",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Zone-3",
+    "serviceArea": "Dhaka",
+    "contactInfo": {
+      "phone": "01901020706"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Zone-4",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Zone-4",
+    "serviceArea": "Dhaka",
+    "contactInfo": {
+      "phone": "01901020707"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Zone-5",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Zone-5",
+    "serviceArea": "Dhaka",
+    "contactInfo": {
+      "phone": "01901020708"
+    }
+  },
+  {
+    "name": "Siddiqbazar Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Siddiqbazar",
+    "serviceArea": "Siddiqbazar",
+    "contactInfo": {
+      "phone": "01901020748"
+    }
+  },
+  {
+    "name": "Sadarghat Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Sadarghat",
+    "serviceArea": "Sadarghat",
+    "contactInfo": {
+      "phone": "01901020750"
+    }
+  },
+  {
+    "name": "Sadarghat River Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Sadarghat River",
+    "serviceArea": "Sadarghat River",
+    "contactInfo": {
+      "phone": "01901020752"
+    }
+  },
+  {
+    "name": "Postgola Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Postgola",
+    "serviceArea": "Postgola",
+    "contactInfo": {
+      "phone": "01901020756"
+    }
+  },
+  {
+    "name": "Lalbagh Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Lalbagh",
+    "serviceArea": "Lalbagh",
+    "contactInfo": {
+      "phone": "01901020770"
+    }
+  },
+  {
+    "name": "Palashi Barrack Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Palashi Barrack",
+    "serviceArea": "Palashi Barrack",
+    "contactInfo": {
+      "phone": "01901020774"
+    }
+  },
+  {
+    "name": "Khilgaon Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Khilgaon",
+    "serviceArea": "Khilgaon",
+    "contactInfo": {
+      "phone": "01901020760"
+    }
+  },
+  {
+    "name": "Tejgaon Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Tejgaon",
+    "serviceArea": "Tejgaon",
+    "contactInfo": {
+      "phone": "01901020758"
+    }
+  },
+  {
+    "name": "Mohammadpur Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Mohammadpur",
+    "serviceArea": "Mohammadpur",
+    "contactInfo": {
+      "phone": "01901020762"
+    }
+  },
+  {
+    "name": "Mirpur Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Mirpur",
+    "serviceArea": "Mirpur",
+    "contactInfo": {
+      "phone": "01901020764"
+    }
+  },
+  {
+    "name": "Kurmitola Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Kurmitola",
+    "serviceArea": "Kurmitola",
+    "contactInfo": {
+      "phone": "01901020768"
+    }
+  },
+  {
+    "name": "Uttara Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Uttara",
+    "serviceArea": "Uttara",
+    "contactInfo": {
+      "phone": "01901020782"
+    }
+  },
+  {
+    "name": "DEPZ Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "DEPZ",
+    "serviceArea": "DEPZ",
+    "contactInfo": {
+      "phone": "01901020822"
+    }
+  },
+  {
+    "name": "Demra Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Demra",
+    "serviceArea": "Demra",
+    "contactInfo": {
+      "phone": "01901020778"
+    }
+  },
+  {
+    "name": "Baridhara Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Baridhara",
+    "serviceArea": "Baridhara",
+    "contactInfo": {
+      "phone": "01901020780"
+    }
+  },
+  {
+    "name": "Savar Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Savar",
+    "serviceArea": "Savar",
+    "contactInfo": {
+      "phone": "01901020820"
+    }
+  },
+  {
+    "name": "Doha Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Doha",
+    "serviceArea": "Doha",
+    "contactInfo": {
+      "phone": "01901020808"
+    }
+  },
+  {
+    "name": "Hazaribagh Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Hazaribagh",
+    "serviceArea": "Hazaribagh",
+    "contactInfo": {
+      "phone": "01901020776"
+    }
+  },
+  {
+    "name": "Dhamrai Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Dhamrai",
+    "serviceArea": "Dhamrai",
+    "contactInfo": {
+      "phone": "01901020804"
+    }
+  },
+  {
+    "name": "Keraniganj Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Keraniganj",
+    "serviceArea": "Keraniganj",
+    "contactInfo": {
+      "phone": "01901020810"
+    }
+  },
+  {
+    "name": "Secretariat Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Secretariat",
+    "serviceArea": "Secretariat",
+    "contactInfo": {
+      "phone": "02-9515555"
+    }
+  },
+  {
+    "name": "Sutrapur Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Sutrapur",
+    "serviceArea": "Sutrapur",
+    "contactInfo": {
+      "phone": "01901020754"
+    }
+  },
+  {
+    "name": "Kalyanpur Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Kalyanpur",
+    "serviceArea": "Kalyanpur",
+    "contactInfo": {
+      "phone": "01901020766"
+    }
+  },
+  {
+    "name": "Leather Industrial Fire Station",
+    "district": "Dhaka",
+    "city": "Dhaka",
+    "address": "Leather Industrial",
+    "serviceArea": "Leather Industrial",
+    "contactInfo": {
+      "phone": "01901020824"
+    }
+  },
+  {
+    "name": "Assistant Director, Narayanganj, Zone-1",
+    "district": "Narayanganj",
+    "city": "Narayanganj",
+    "address": "Narayanganj",
+    "serviceArea": "Narayanganj Zone-1",
+    "contactInfo": {
+      "phone": "01901020710"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Narayanganj, Zone-2",
+    "district": "Narayanganj",
+    "city": "Narayanganj",
+    "address": "Narayanganj",
+    "serviceArea": "Narayanganj Zone-2",
+    "contactInfo": {
+      "phone": "01901020705"
+    }
+  },
+  {
+    "name": "Narayanganj Fire Station",
+    "district": "Narayanganj",
+    "city": "Narayanganj",
+    "address": "Narayanganj",
+    "serviceArea": "Narayanganj",
+    "contactInfo": {
+      "phone": "01901020828"
+    }
+  },
+  {
+    "name": "Hajiganj Fire Station",
+    "district": "Narayanganj",
+    "city": "Narayanganj",
+    "address": "Hajiganj",
+    "serviceArea": "Narayanganj",
+    "contactInfo": {
+      "phone": "01901020830"
+    }
+  },
+  {
+    "name": "Bandar Fire Station",
+    "district": "Narayanganj",
+    "city": "Narayanganj",
+    "address": "Bandar",
+    "serviceArea": "Narayanganj",
+    "contactInfo": {
+      "phone": "01901020850"
+    }
+  },
+  {
+    "name": "Narayanganj River Fire Station",
+    "district": "Narayanganj",
+    "city": "Narayanganj",
+    "address": "Narayanganj",
+    "serviceArea": "Narayanganj",
+    "contactInfo": {
+      "phone": "01901020836"
+    }
+  },
+  {
+    "name": "Kanchan River Fire Station",
+    "district": "Narayanganj",
+    "city": "Narayanganj",
+    "address": "Narayanganj",
+    "serviceArea": "Narayanganj",
+    "contactInfo": {
+      "phone": "01901020854"
+    }
+  },
+  {
+    "name": "Adamji (EPZ) Fire Station",
+    "district": "Narayanganj",
+    "city": "Narayanganj",
+    "address": "Adamji (EPZ)",
+    "serviceArea": "Narayanganj",
+    "contactInfo": {
+      "phone": "01901020832"
+    }
+  },
+  {
+    "name": "Araihajar Fire Station",
+    "district": "Narayanganj",
+    "city": "Narayanganj",
+    "address": "Araihajar",
+    "serviceArea": "Narayanganj",
+    "contactInfo": {
+      "phone": "01901020842"
+    }
+  },
+  {
+    "name": "Fatullah Fire Station",
+    "district": "Narayanganj",
+    "city": "Narayanganj",
+    "address": "Fatullah",
+    "serviceArea": "Narayanganj",
+    "contactInfo": {
+      "phone": "01901020838"
+    }
+  },
+  {
+    "name": "Sonargaon Fire Station",
+    "district": "Narayanganj",
+    "city": "Narayanganj",
+    "address": "Sonargaon",
+    "serviceArea": "Narayanganj",
+    "contactInfo": {
+      "phone": "01901020846"
+    }
+  },
+  {
+    "name": "Purbachal Fire Station",
+    "district": "Narayanganj",
+    "city": "Narayanganj",
+    "address": "Purbachal",
+    "serviceArea": "Narayanganj",
+    "contactInfo": {
+      "phone": "01901020858"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Gazipur",
+    "district": "Gazipur",
+    "city": "Gazipur",
+    "address": "Gazipur",
+    "serviceArea": "Gazipur",
+    "contactInfo": {
+      "phone": "01901020709"
+    }
+  },
+  {
+    "name": "Joydevpur Fire Station",
+    "district": "Gazipur",
+    "city": "Gazipur",
+    "address": "Joydevpur",
+    "serviceArea": "Gazipur",
+    "contactInfo": {
+      "phone": "01901020868"
+    }
+  },
+  {
+    "name": "Tongi Fire Station",
+    "district": "Gazipur",
+    "city": "Gazipur",
+    "address": "Tongi",
+    "serviceArea": "Gazipur",
+    "contactInfo": {
+      "phone": "01901020866"
+    }
+  },
+  {
+    "name": "Kaliakor Fire Station",
+    "district": "Gazipur",
+    "city": "Gazipur",
+    "address": "Kaliakor",
+    "serviceArea": "Gazipur",
+    "contactInfo": {
+      "phone": "01901020892"
+    }
+  },
+  {
+    "name": "Sripur Fire Station",
+    "district": "Gazipur",
+    "city": "Gazipur",
+    "address": "Sripur",
+    "serviceArea": "Gazipur",
+    "contactInfo": {
+      "phone": "01901020900"
+    }
+  },
+  {
+    "name": "Kaliganj Fire Station",
+    "district": "Gazipur",
+    "city": "Gazipur",
+    "address": "Kaliganj",
+    "serviceArea": "Gazipur",
+    "contactInfo": {
+      "phone": "01901020896"
+    }
+  },
+  {
+    "name": "Arms Factory Fire Station",
+    "district": "Gazipur",
+    "city": "Gazipur",
+    "address": "Gazipur",
+    "serviceArea": "Gazipur",
+    "contactInfo": {
+      "phone": "01901020721"
+    }
+  },
+  {
+    "name": "Kashimpur Mini Fire Station",
+    "district": "Gazipur",
+    "city": "Gazipur",
+    "address": "Gazipur",
+    "serviceArea": "Gazipur",
+    "contactInfo": {
+      "phone": "01755-630094"
+    }
+  },
+  {
+    "name": "Kapasia Fire Station",
+    "district": "Gazipur",
+    "city": "Gazipur",
+    "address": "Kapasia",
+    "serviceArea": "Gazipur",
+    "contactInfo": {
+      "phone": "01901020898"
+    }
+  },
+  {
+    "name": "Saraba (Kassampur) Fire Station",
+    "district": "Gazipur",
+    "city": "Gazipur",
+    "address": "Saraba (Kassampur)",
+    "serviceArea": "Gazipur",
+    "contactInfo": {
+      "phone": "01901020872"
+    }
+  },
+  {
+    "name": "Assistant Director, Munshiganj",
+    "district": "Munshiganj",
+    "city": "Munshiganj",
+    "address": "Munshiganj",
+    "serviceArea": "Munshiganj",
+    "contactInfo": {
+      "phone": "01901020712"
+    }
+  },
+  {
+    "name": "Munshiganj Fire Station",
+    "district": "Munshiganj",
+    "city": "Munshiganj",
+    "address": "Munshiganj",
+    "serviceArea": "Munshiganj",
+    "contactInfo": {
+      "phone": "01901020924"
+    }
+  },
+  {
+    "name": "Kamlaghat River Fire Station",
+    "district": "Munshiganj",
+    "city": "Munshiganj",
+    "address": "Kamlaghat River",
+    "serviceArea": "Munshiganj",
+    "contactInfo": {
+      "phone": "01901020926"
+    }
+  },
+  {
+    "name": "Srinagar Fire Station",
+    "district": "Munshiganj",
+    "city": "Munshiganj",
+    "address": "Srinagar",
+    "serviceArea": "Munshiganj",
+    "contactInfo": {
+      "phone": "01901020934"
+    }
+  },
+  {
+    "name": "Sirajdikhan Fire Station",
+    "district": "Munshiganj",
+    "city": "Munshiganj",
+    "address": "Sirajdikhan",
+    "serviceArea": "Munshiganj",
+    "contactInfo": {
+      "phone": "01901020940"
+    }
+  },
+  {
+    "name": "Yawhajong Fire Station",
+    "district": "Munshiganj",
+    "city": "Munshiganj",
+    "address": "Yawhajong",
+    "serviceArea": "Munshiganj",
+    "contactInfo": {
+      "phone": "01901020936"
+    }
+  },
+  {
+    "name": "Assistant Director, Narsingdi",
+    "district": "Narsingdi",
+    "city": "Narsingdi",
+    "address": "Narsingdi",
+    "serviceArea": "Narsingdi",
+    "contactInfo": {
+      "phone": "01901020713"
+    }
+  },
+  {
+    "name": "Narsingdi Fire Station",
+    "district": "Narsingdi",
+    "city": "Narsingdi",
+    "address": "Narsingdi",
+    "serviceArea": "Narsingdi",
+    "contactInfo": {
+      "phone": "01901020902"
+    }
+  },
+  {
+    "name": "Manohardy Fire Station",
+    "district": "Narsingdi",
+    "city": "Narsingdi",
+    "address": "Manohardy",
+    "serviceArea": "Narsingdi",
+    "contactInfo": {
+      "phone": "01901020912"
+    }
+  },
+  {
+    "name": "Palash Fire Station",
+    "district": "Narsingdi",
+    "city": "Narsingdi",
+    "address": "Palash",
+    "serviceArea": "Narsingdi",
+    "contactInfo": {
+      "phone": "01901020914"
+    }
+  },
+  {
+    "name": "Madhavadi Fire Station",
+    "district": "Narsingdi",
+    "city": "Narsingdi",
+    "address": "Madhavadi",
+    "serviceArea": "Narsingdi",
+    "contactInfo": {
+      "phone": "01901020904"
+    }
+  },
+  {
+    "name": "Raipura Fire Station",
+    "district": "Narsingdi",
+    "city": "Narsingdi",
+    "address": "Raipura",
+    "serviceArea": "Narsingdi",
+    "contactInfo": {
+      "phone": "01901020918"
+    }
+  },
+  {
+    "name": "Shivpur Fire Station",
+    "district": "Narsingdi",
+    "city": "Narsingdi",
+    "address": "Shivpur",
+    "serviceArea": "Narsingdi",
+    "contactInfo": {
+      "phone": "01901020920"
+    }
+  },
+  {
+    "name": "Belab Fire Station",
+    "district": "Narsingdi",
+    "city": "Narsingdi",
+    "address": "Belab",
+    "serviceArea": "Narsingdi",
+    "contactInfo": {
+      "phone": "01901020910"
+    }
+  },
+  {
+    "name": "Assistant Director, Manikganj",
+    "district": "Manikganj",
+    "city": "Manikganj",
+    "address": "Manikganj",
+    "serviceArea": "Manikganj",
+    "contactInfo": {
+      "phone": "01901020714"
+    }
+  },
+  {
+    "name": "Manikganj Fire Station",
+    "district": "Manikganj",
+    "city": "Manikganj",
+    "address": "Manikganj",
+    "serviceArea": "Manikganj",
+    "contactInfo": {
+      "phone": "01901020946"
+    }
+  },
+  {
+    "name": "Ghior Fire Station",
+    "district": "Manikganj",
+    "city": "Manikganj",
+    "address": "Ghior",
+    "serviceArea": "Manikganj",
+    "contactInfo": {
+      "phone": "01901020948"
+    }
+  },
+  {
+    "name": "Aricha Ground-Kam River Fire Station",
+    "district": "Manikganj",
+    "city": "Manikganj",
+    "address": "Aricha Ground-Kam River",
+    "serviceArea": "Manikganj",
+    "contactInfo": {
+      "phone": "01901020952"
+    }
+  },
+  {
+    "name": "Harirampur Fire Station",
+    "district": "Manikganj",
+    "city": "Manikganj",
+    "address": "Harirampur",
+    "serviceArea": "Manikganj",
+    "contactInfo": {
+      "phone": "01901020950"
+    }
+  },
+  {
+    "name": "Singair Fire Station",
+    "district": "Manikganj",
+    "city": "Manikganj",
+    "address": "Singair",
+    "serviceArea": "Manikganj",
+    "contactInfo": {
+      "phone": "01901020954"
+    }
+  },
+  {
+    "name": "Daulatpur Fire Station",
+    "district": "Manikganj",
+    "city": "Manikganj",
+    "address": "Daulatpur",
+    "serviceArea": "Manikganj",
+    "contactInfo": {
+      "phone": "01901020960"
+    }
+  },
+  {
+    "name": "Saturia Fire Station",
+    "district": "Manikganj",
+    "city": "Manikganj",
+    "address": "Saturia",
+    "serviceArea": "Manikganj",
+    "contactInfo": {
+      "phone": "01901020956"
+    }
+  },
+  {
+    "name": "Assistant Director, Tangail",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Tangail",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020104"
+    }
+  },
+  {
+    "name": "Tangail Fire Station",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Tangail",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020962"
+    }
+  },
+  {
+    "name": "Madhupur Fire Station",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Madhupur",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020976"
+    }
+  },
+  {
+    "name": "Mirzapur Fire Station",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Mirzapur",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020980"
+    }
+  },
+  {
+    "name": "Basil Fire Station",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Basil",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020964"
+    }
+  },
+  {
+    "name": "Sakhipur Fire Station",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Sakhipur",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020986"
+    }
+  },
+  {
+    "name": "Nagarpur Fire Station",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Nagarpur",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020984"
+    }
+  },
+  {
+    "name": "Bhuanapur Fire Station",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Bhuanapur",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020966"
+    }
+  },
+  {
+    "name": "Dhanbari Fire Station",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Dhanbari",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020978"
+    }
+  },
+  {
+    "name": "Kalihati Fire Station",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Kalihati",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020970"
+    }
+  },
+  {
+    "name": "Gopalpur Fire Station",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Gopalpur",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020968"
+    }
+  },
+  {
+    "name": "Ghatail Fire Station",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Ghatail",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020988"
+    }
+  },
+  {
+    "name": "Eg Ngo Fire Station",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Eg Ngo",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020972"
+    }
+  },
+  {
+    "name": "The fire station of that duo",
+    "district": "Tangail",
+    "city": "Tangail",
+    "address": "Tangail",
+    "serviceArea": "Tangail",
+    "contactInfo": {
+      "phone": "01901020992"
+    }
+  },
+  {
+    "name": "Assistant Director, Faridpur",
+    "district": "Faridpur",
+    "city": "Faridpur",
+    "address": "Faridpur",
+    "serviceArea": "Faridpur",
+    "contactInfo": {
+      "phone": "01901020106"
+    }
+  },
+  {
+    "name": "Faridpur Fire Station",
+    "district": "Faridpur",
+    "city": "Faridpur",
+    "address": "Faridpur",
+    "serviceArea": "Faridpur",
+    "contactInfo": {
+      "phone": "01901020996"
+    }
+  },
+  {
+    "name": "Bowlmari Fire Station",
+    "district": "Faridpur",
+    "city": "Faridpur",
+    "address": "Bowlmari",
+    "serviceArea": "Faridpur",
+    "contactInfo": {
+      "phone": "01901021008"
+    }
+  },
+  {
+    "name": "Bhanga Fire Station",
+    "district": "Faridpur",
+    "city": "Faridpur",
+    "address": "Bhanga",
+    "serviceArea": "Faridpur",
+    "contactInfo": {
+      "phone": "01901021006"
+    }
+  },
+  {
+    "name": "Madukhali Fire Station",
+    "district": "Faridpur",
+    "city": "Faridpur",
+    "address": "Madukhali",
+    "serviceArea": "Faridpur",
+    "contactInfo": {
+      "phone": "01901021014"
+    }
+  },
+  {
+    "name": "Sadarpur Fire Station",
+    "district": "Faridpur",
+    "city": "Faridpur",
+    "address": "Sadarpur",
+    "serviceArea": "Faridpur",
+    "contactInfo": {
+      "phone": "01901021010"
+    }
+  },
+  {
+    "name": "Saltha Fire Station",
+    "district": "Faridpur",
+    "city": "Faridpur",
+    "address": "Saltha",
+    "serviceArea": "Faridpur",
+    "contactInfo": {
+      "phone": "01901021016"
+    }
+  },
+  {
+    "name": "Nagarkanda Fire Station",
+    "district": "Faridpur",
+    "city": "Faridpur",
+    "address": "Nagarkanda",
+    "serviceArea": "Faridpur",
+    "contactInfo": {
+      "phone": "01901021002"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Rajbari",
+    "district": "Rajbari",
+    "city": "Rajbari",
+    "address": "Rajbari",
+    "serviceArea": "Rajbari",
+    "contactInfo": {
+      "phone": "01901020719"
+    }
+  },
+  {
+    "name": "Pangsha Fire Station",
+    "district": "Rajbari",
+    "city": "Rajbari",
+    "address": "Pangsha",
+    "serviceArea": "Rajbari",
+    "contactInfo": {
+      "phone": "01901021030"
+    }
+  },
+  {
+    "name": "Rajbari Fire Station",
+    "district": "Rajbari",
+    "city": "Rajbari",
+    "address": "Rajbari",
+    "serviceArea": "Rajbari",
+    "contactInfo": {
+      "phone": "01901021024"
+    }
+  },
+  {
+    "name": "Baliakandi Fire Station",
+    "district": "Rajbari",
+    "city": "Rajbari",
+    "address": "Baliakandi",
+    "serviceArea": "Rajbari",
+    "contactInfo": {
+      "phone": "01901021026"
+    }
+  },
+  {
+    "name": "Gwaland Fire Station",
+    "district": "Rajbari",
+    "city": "Rajbari",
+    "address": "Gwaland",
+    "serviceArea": "Rajbari",
+    "contactInfo": {
+      "phone": "01901021028"
+    }
+  },
+  {
+    "name": "Kalukhali Fire Station",
+    "district": "Rajbari",
+    "city": "Rajbari",
+    "address": "Kalukhali",
+    "serviceArea": "Rajbari",
+    "contactInfo": {
+      "phone": "01901021032"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Madaripur",
+    "district": "Madaripur",
+    "city": "Madaripur",
+    "address": "Madaripur",
+    "serviceArea": "Madaripur",
+    "contactInfo": {
+      "phone": "01901020718"
+    }
+  },
+  {
+    "name": "Madaripur Fire Station",
+    "district": "Madaripur",
+    "city": "Madaripur",
+    "address": "Madaripur",
+    "serviceArea": "Madaripur",
+    "contactInfo": {
+      "phone": "01901021034"
+    }
+  },
+  {
+    "name": "Shivchar Fire Station",
+    "district": "Madaripur",
+    "city": "Madaripur",
+    "address": "Shivchar",
+    "serviceArea": "Madaripur",
+    "contactInfo": {
+      "phone": "01901021036"
+    }
+  },
+  {
+    "name": "Rajouri Fire Station",
+    "district": "Madaripur",
+    "city": "Madaripur",
+    "address": "Rajouri",
+    "serviceArea": "Madaripur",
+    "contactInfo": {
+      "phone": "01901021038"
+    }
+  },
+  {
+    "name": "Kalkini Fire Station",
+    "district": "Madaripur",
+    "city": "Madaripur",
+    "address": "Kalkini",
+    "serviceArea": "Madaripur",
+    "contactInfo": {
+      "phone": "01901021042"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Gopalganj",
+    "district": "Gopalganj",
+    "city": "Gopalganj",
+    "address": "Gopalganj",
+    "serviceArea": "Gopalganj",
+    "contactInfo": {
+      "phone": "01901020717"
+    }
+  },
+  {
+    "name": "Gopalganj Fire Station",
+    "district": "Gopalganj",
+    "city": "Gopalganj",
+    "address": "Gopalganj",
+    "serviceArea": "Gopalganj",
+    "contactInfo": {
+      "phone": "01901021046"
+    }
+  },
+  {
+    "name": "Tungipara Fire Station",
+    "district": "Gopalganj",
+    "city": "Gopalganj",
+    "address": "Tungipara",
+    "serviceArea": "Gopalganj",
+    "contactInfo": {
+      "phone": "01901021054"
+    }
+  },
+  {
+    "name": "Moksudpur Fire Station",
+    "district": "Gopalganj",
+    "city": "Gopalganj",
+    "address": "Moksudpur",
+    "serviceArea": "Gopalganj",
+    "contactInfo": {
+      "phone": "01901021052"
+    }
+  },
+  {
+    "name": "Kotalipara Fire Station",
+    "district": "Gopalganj",
+    "city": "Gopalganj",
+    "address": "Kotalipara",
+    "serviceArea": "Gopalganj",
+    "contactInfo": {
+      "phone": "01901021050"
+    }
+  },
+  {
+    "name": "Orshyoni Fire Station",
+    "district": "Gopalganj",
+    "city": "Gopalganj",
+    "address": "Orshyoni",
+    "serviceArea": "Gopalganj",
+    "contactInfo": {
+      "phone": "01901021056"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Shariatpur",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Shariatpur",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901020720"
+    }
+  },
+  {
+    "name": "Shariatpur Fire Station",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Shariatpur",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901021058"
+    }
+  },
+  {
+    "name": "Damudya Fire Station",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Damudya",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901021060"
+    }
+  },
+  {
+    "name": "Gosairhat Fire Station",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Gosairhat",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901021062"
+    }
+  },
+  {
+    "name": "Jazeera Fire Station",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Jazeera",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901021066"
+    }
+  },
+  {
+    "name": "Nadia Fire Station",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Nadia",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901021064"
+    }
+  },
+  {
+    "name": "Vedarganj Fire Station",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Vedarganj",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901021070"
+    }
+  },
+  {
+    "name": "Deputy Assistant Director, Shariatpur",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Shariatpur",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901020720"
+    }
+  },
+  {
+    "name": "Shariatpur Fire Station",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Shariatpur",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901021058"
+    }
+  },
+  {
+    "name": "Damudya Fire Station",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Damudya",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901021060"
+    }
+  },
+  {
+    "name": "Gosairhat Fire Station",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Gosairhat",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901021062"
+    }
+  },
+  {
+    "name": "Jazeera Fire Station",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Jazeera",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901021066"
+    }
+  },
+  {
+    "name": "Nadia Fire Station",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Nadia",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901021064"
+    }
+  },
+  {
+    "name": "Vedarganj Fire Station",
+    "district": "Shariatpur",
+    "city": "Shariatpur",
+    "address": "Vedarganj",
+    "serviceArea": "Shariatpur",
+    "contactInfo": {
+      "phone": "01901021070"
+    }
+  },
+  {
+    "name": "Assistant Director, Kishoreganj",
+    "district": "Kishoreganj",
+    "city": "Kishoreganj",
+    "address": "Kishoreganj",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901020722"
+    }
+  },
+  {
+    "name": "Kishoreganj Fire Station",
+    "district": "Kishoreganj",
+    "city": "Kishoreganj",
+    "address": "Kishoreganj",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021074"
+    }
+  },
+  {
+    "name": "Bajitpur Fire Station",
+    "district": "Kishoreganj",
+    "city": "Bajitpur",
+    "address": "Bajitpur",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021080"
+    }
+  },
+  {
+    "name": "Bhairab Bazar Fire Station",
+    "district": "Kishoreganj",
+    "city": "Bhairab Bazar",
+    "address": "Bhairab Bazar",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021082"
+    }
+  },
+  {
+    "name": "Bhairab Bazar Nadi Fire Station",
+    "district": "Kishoreganj",
+    "city": "Bhairab Bazar",
+    "address": "Bhairab Bazar Nadi",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021084"
+    }
+  },
+  {
+    "name": "Kulichar Fire Station",
+    "district": "Kishoreganj",
+    "city": "Kulichar",
+    "address": "Kulichar",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021086"
+    }
+  },
+  {
+    "name": "Tarail Fire Station",
+    "district": "Kishoreganj",
+    "city": "Tarail",
+    "address": "Tarail",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021088"
+    }
+  },
+  {
+    "name": "Katiyadi Fire Station",
+    "district": "Kishoreganj",
+    "city": "Katiyadi",
+    "address": "Katiyadi",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021096"
+    }
+  },
+  {
+    "name": "Karimganj Fire Station",
+    "district": "Kishoreganj",
+    "city": "Karimganj",
+    "address": "Karimganj",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021094"
+    }
+  },
+  {
+    "name": "Mithamain Fire Station",
+    "district": "Kishoreganj",
+    "city": "Mithamain",
+    "address": "Mithamain",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021104"
+    }
+  },
+  {
+    "name": "Hossainpur Fire Station",
+    "district": "Kishoreganj",
+    "city": "Hossainpur",
+    "address": "Hossainpur",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021100"
+    }
+  },
+  {
+    "name": "Pakundia Fire Station",
+    "district": "Kishoreganj",
+    "city": "Pakundia",
+    "address": "Pakundia",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "1901021090"
+    }
+  },
+  {
+    "name": "Etna Fire Station",
+    "district": "Kishoreganj",
+    "city": "Etna",
+    "address": "Etna",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021106"
+    }
+  },
+  {
+    "name": "Ostgram Fire Station",
+    "district": "Kishoreganj",
+    "city": "Ostgram",
+    "address": "Ostgram",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021098"
+    }
+  },
+  {
+    "name": "Nikli Sthal Kam Nadi Fire Station",
+    "district": "Kishoreganj",
+    "city": "Nikli",
+    "address": "Nikli Sthal Kam Nadi",
+    "serviceArea": "Kishoreganj",
+    "contactInfo": {
+      "phone": "01901021102"
+    }
+  }
+]
