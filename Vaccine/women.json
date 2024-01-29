@@ -1,0 +1,198 @@
+[
+  {
+    "VaccineName": "Influenza",
+    "DiseaseName": "Influenza",
+    "NoOfDose": 0,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "Recommended for all pregnant women at any stage of pregnancy, particularly those who will be in the 2nd or 3rd trimester during the influenza season",
+    "WhenShouldYouGetIN": "Recommended for all pregnant women at any stage of pregnancy, particularly those who will be in the 2nd or 3rd trimester during the influenza season",
+    "WhereGetIt": "Administered based on healthcare provider's recommendation",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Mild soreness or redness at the injection site",
+        "Low-grade fever",
+        "Muscle aches"
+      ],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should consult with a healthcare professional"
+      ],
+      "OtherNotes": "Influenza vaccine helps protect against seasonal influenza viruses."
+    }
+  },
+  {
+    "VaccineName": "dTpa (Diphtheria-Tetanus-Acellular Pertussis)",
+    "DiseaseName": "Diphtheria, Tetanus, Pertussis",
+    "NoOfDose": 1,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "Recommended as a single dose between mid 2nd trimester and early 3rd trimester of each pregnancy (ideally at 20–32 weeks)",
+    "WhenShouldYouGetIN": "Recommended between mid 2nd trimester and early 3rd trimester of each pregnancy (ideally at 20–32 weeks)",
+    "WhereGetIt": "Administered based on healthcare provider's recommendation",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Pain or swelling at the injection site",
+        "Low-grade fever",
+        "Fatigue"
+      ],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should consult with a healthcare professional"
+      ],
+      "OtherNotes": "dTpa vaccine provides protection against diphtheria, tetanus, and pertussis during pregnancy."
+    }
+  },
+  {
+    "VaccineName": "dT (Diphtheria-Tetanus)",
+    "DiseaseName": "Diphtheria, Tetanus",
+    "NoOfDose": 0,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "Not routinely recommended as a dT only vaccine. Pregnant women can receive dT vaccine under certain circumstances, such as to manage a tetanus-prone wound, however depending on timing during pregnancy, a dTpa may be a preferred option (see Pertussis).",
+    "WhenShouldYouGetIN": "Depends on circumstances, not routinely recommended",
+    "WhereGetIt": "Administered based on healthcare provider's recommendation",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Pain or swelling at the injection site",
+        "Low-grade fever",
+        "Fatigue"
+      ],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should consult with a healthcare professional"
+      ],
+      "OtherNotes": "dT vaccine provides protection against diphtheria and tetanus. Not routinely recommended as a standalone vaccine."
+    }
+  },
+  {
+    "VaccineName": "Cholera (Oral)",
+    "DiseaseName": "Cholera",
+    "NoOfDose": 0,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "Not routinely recommended",
+    "WhenShouldYouGetIN": "Not routinely recommended",
+    "WhereGetIt": "Administered based on healthcare provider's recommendation",
+    "AdditionalInformation": {
+      "SideEffects": ["Mild stomach discomfort", "Nausea", "Vomiting"],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should consult with a healthcare professional"
+      ],
+      "OtherNotes": "Cholera vaccine may be recommended in specific situations, such as travel to high-risk areas, but it is not routinely recommended."
+    }
+  },
+  {
+    "VaccineName": "Hib (Haemophilus influenzae type b)",
+    "DiseaseName": "Haemophilus influenzae type b",
+    "NoOfDose": 0,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "Not routinely recommended",
+    "WhenShouldYouGetIN": "Not routinely recommended",
+    "WhereGetIt": "Administered based on healthcare provider's recommendation",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Mild redness or swelling at the injection site",
+        "Low-grade fever",
+        "Irritability"
+      ],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should consult with a healthcare professional"
+      ],
+      "OtherNotes": "Hib vaccine may be recommended for pregnant women if they are at increased risk of Hib disease, such as women with asplenia, but it is not routinely recommended."
+    }
+  },
+  {
+    "VaccineName": "MenB (Meningococcal B) or MenACWY (Quadrivalent Meningococcal Conjugate)",
+    "DiseaseName": "Meningococcal Disease",
+    "NoOfDose": 0,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "Not routinely recommended",
+    "WhenShouldYouGetIN": "Not routinely recommended",
+    "WhereGetIt": "Administered based on healthcare provider's recommendation",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Pain or swelling at the injection site",
+        "Fever",
+        "Headache"
+      ],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should consult with a healthcare professional"
+      ],
+      "OtherNotes": "Meningococcal vaccines (MenB or MenACWY) may be recommended for pregnant women if they are at increased risk of the disease, but they are not routinely recommended."
+    }
+  },
+  {
+    "VaccineName": "PCV (Pneumococcal Conjugate Vaccine) - 13vPCV, 15vPCV [if ≥18 years of age] or 20vPCV [if ≥18 years of age]",
+    "DiseaseName": "Pneumococcal Disease",
+    "NoOfDose": 0,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "Not routinely recommended",
+    "WhenShouldYouGetIN": "Not routinely recommended",
+    "WhereGetIt": "Administered based on healthcare provider's recommendation",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Pain or swelling at the injection site",
+        "Fever",
+        "Fatigue"
+      ],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should consult with a healthcare professional"
+      ],
+      "OtherNotes": "Pregnant women can receive a pneumococcal conjugate vaccine (13vPCV, 15vPCV [if ≥18 years of age] or 20vPCV [if ≥18 years of age]) if they have a very high risk of invasive pneumococcal disease (IPD), such as those who do not have a spleen or evidence of reduced splenic function, or are immunocompromised, or have cerebrospinal fluid leak. However, it is not routinely recommended."
+    }
+  },
+  {
+    "VaccineName": "23vPPV (23-valent Pneumococcal Polysaccharide)",
+    "DiseaseName": "Pneumococcal Disease",
+    "NoOfDose": 0,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "Not routinely recommended",
+    "WhenShouldYouGetIN": "Not routinely recommended",
+    "WhereGetIt": "Administered based on healthcare provider's recommendation",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Pain or swelling at the injection site",
+        "Fever",
+        "Fatigue"
+      ],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should consult with a healthcare professional"
+      ],
+      "OtherNotes": "Pregnant women can receive 23vPPV if they have a very high risk of invasive pneumococcal disease (IPD), such as those who do not have a spleen or evidence of reduced splenic function, are immunocompromised, or have cerebrospinal fluid leak. However, it is not routinely recommended."
+    }
+  },
+  {
+    "VaccineName": "Q fever",
+    "DiseaseName": "Q Fever",
+    "NoOfDose": 0,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "Not routinely recommended",
+    "WhenShouldYouGetIN": "Not routinely recommended",
+    "WhereGetIt": "Administered based on healthcare provider's recommendation",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Pain or swelling at the injection site",
+        "Fever",
+        "Fatigue"
+      ],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should consult with a healthcare professional"
+      ],
+      "OtherNotes": "Q fever vaccine is not routinely recommended."
+    }
+  },
+  {
+    "VaccineName": "Typhoid Vi Polysaccharide",
+    "DiseaseName": "Typhoid",
+    "NoOfDose": 0,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "Not routinely recommended",
+    "WhenShouldYouGetIN": "Not routinely recommended",
+    "WhereGetIt": "Administered based on healthcare provider's recommendation",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Pain or swelling at the injection site",
+        "Fever",
+        "Headache"
+      ],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should consult with a healthcare professional"
+      ],
+      "OtherNotes": "Pregnant women can receive typhoid Vi polysaccharide vaccine if they are traveling to endemic countries where water quality and sanitation are poor. However, it is not routinely recommended."
+    }
+  }
+]

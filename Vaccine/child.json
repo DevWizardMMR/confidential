@@ -1,0 +1,125 @@
+[
+  {
+    "VaccineName": "BCG",
+    "DiseaseName": "Tuberculosis",
+    "NoOfDose": 1,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "After birth/ If not possible with Penta 1",
+    "WhenShouldYouGetIN": "Shortly after birth",
+    "WhereGetIt": "Available at local health clinics",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Mild swelling at the injection site",
+        "Small red bump at the site",
+        "Low-grade fever"
+      ],
+      "Precautions": [
+        "Not recommended for individuals with a compromised immune system",
+        "Consult with a healthcare professional if there are concerns"
+      ],
+      "OtherNotes": "BCG is also used as a treatment for bladder cancer."
+    }
+  },
+  {
+    "VaccineName": "Pentavalent",
+    "DiseaseName": "Diphtheria, Pertussis, Tetanus, Hepatitis B, Haemophilus Influenza B",
+    "NoOfDose": 3,
+    "IntervalBetweenDoses": 4,
+    "StartingTimeOfDoses": "6 weeks of age",
+    "WhenShouldYouGetIN": "At 6, 10, and 14 weeks of age",
+    "WhereGetIt": "Administered via Intramuscular (IM) injection",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Mild pain at the injection site",
+        "Fever",
+        "Irritability"
+      ],
+      "Precautions": [
+        "Not recommended for individuals with a history of severe allergic reactions to any component of the vaccine",
+        "Consult with a healthcare professional if there are concerns"
+      ],
+      "OtherNotes": "This vaccine protects against multiple diseases in a single shot."
+    }
+  },
+  {
+    "VaccineName": "PCV",
+    "DiseaseName": "Pneumococcal Pneumonia",
+    "NoOfDose": 3,
+    "IntervalBetweenDoses": 4,
+    "StartingTimeOfDoses": "6 weeks of age",
+    "WhenShouldYouGetIN": "At 6, 10, and 14 weeks of age",
+    "WhereGetIt": "Administered via Intramuscular (IM) injection",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Pain or swelling at the injection site",
+        "Fever",
+        "Irritability"
+      ],
+      "Precautions": [
+        "Not recommended for individuals with a history of severe allergic reactions to any component of the vaccine",
+        "Consult with a healthcare professional if there are concerns"
+      ],
+      "OtherNotes": "This vaccine provides protection against pneumococcal diseases."
+    }
+  },
+  {
+    "VaccineName": "OPV",
+    "DiseaseName": "Poliomyelitis",
+    "NoOfDose": 4,
+    "IntervalBetweenDoses": 4,
+    "StartingTimeOfDoses": "6 weeks of age",
+    "WhenShouldYouGetIN": "At birth (0 dose), and at 6, 10, and 14 weeks of age",
+    "WhereGetIt": "Administered orally",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Mild gastrointestinal symptoms (e.g., diarrhea)",
+        "Low-grade fever"
+      ],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should not receive further doses",
+        "Consult with a healthcare professional if there are concerns"
+      ],
+      "OtherNotes": "OPV is a crucial vaccine for the global eradication of polio."
+    }
+  },
+  {
+    "VaccineName": "MR",
+    "DiseaseName": "Measles Rubella",
+    "NoOfDose": 1,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "After completion of 9 months",
+    "WhenShouldYouGetIN": "After completion of 9 months",
+    "WhereGetIt": "Administered subcutaneously",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Mild redness or swelling at the injection site",
+        "Low-grade fever",
+        "Mild rash"
+      ],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should consult with a healthcare professional"
+      ],
+      "OtherNotes": "MR vaccine provides protection against measles and rubella."
+    }
+  },
+  {
+    "VaccineName": "Measles",
+    "DiseaseName": "Measles",
+    "NoOfDose": 1,
+    "IntervalBetweenDoses": 0,
+    "StartingTimeOfDoses": "After completion of 15 months",
+    "WhenShouldYouGetIN": "After completion of 15 months",
+    "WhereGetIt": "Administered subcutaneously",
+    "AdditionalInformation": {
+      "SideEffects": [
+        "Mild redness or swelling at the injection site",
+        "Low-grade fever",
+        "Mild rash"
+      ],
+      "Precautions": [
+        "Individuals with a history of severe allergic reactions to a previous dose should consult with a healthcare professional"
+      ],
+      "OtherNotes": "Measles vaccine provides protection against measles."
+    }
+  }
+]

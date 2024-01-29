@@ -1,0 +1,121 @@
+[
+  {
+    "vaccineName": "AstraZeneca (Vaxzevria, Covishield)",
+    "type": "Viral Vector",
+    "targetDisease": "COVID-19",
+    "vaccineTechnology": "Chimpanzee Adenovirus Vector (ChAdOx1)",
+    "keyPoints": [
+      "Demonstrated efficacy in preventing symptomatic COVID-19 and severe disease",
+      "Administered in two doses",
+      "Easier storage and transport at regular refrigerator temperatures",
+      "Widely used in global vaccination efforts"
+    ],
+    "sideEffects": [
+      "Common: Pain at the injection site, fatigue, headache, muscle pain, chills, fever, nausea",
+      "Rare: Severe allergic reactions"
+    ],
+    "regulatoryApproval": "Received regulatory approvals in various countries and authorized for emergency use"
+  },
+  {
+    "vaccineName": "Pfizer-BioNTech COVID-19 Vaccine",
+    "type": "mRNA",
+    "targetDisease": "COVID-19",
+    "vaccineTechnology": "mRNA (messenger RNA)",
+    "keyPoints": [
+      "High efficacy in preventing symptomatic COVID-19 and severe disease",
+      "Administered in two doses, typically three weeks apart",
+      "Requires ultra-cold storage (-70°C or -94°F) for long-term storage",
+      "Widely used in global vaccination campaigns"
+    ],
+    "sideEffects": [
+      "Common: Pain at the injection site, fatigue, headache, muscle pain, chills, fever",
+      "Rare: Allergic reactions"
+    ],
+    "regulatoryApproval": "Received regulatory approvals in various countries and authorized for emergency use"
+  },
+  {
+    "vaccineName": "Sinopharm COVID-19 Vaccine",
+    "type": "Inactivated Virus",
+    "targetDisease": "COVID-19",
+    "vaccineTechnology": "Inactivated Virus",
+    "keyPoints": [
+      "Developed using inactivated virus technology",
+      "Demonstrated efficacy in preventing symptomatic COVID-19",
+      "Administered in two doses",
+      "Stable at standard refrigeration temperatures"
+    ],
+    "sideEffects": [
+      "Common: Pain at the injection site, mild fever, fatigue",
+      "Rare: Allergic reactions"
+    ],
+    "regulatoryApproval": "Received regulatory approvals in various countries and authorized for emergency use"
+  },
+  {
+    "vaccineName": "Moderna COVID-19 Vaccine",
+    "type": "mRNA",
+    "targetDisease": "COVID-19",
+    "vaccineTechnology": "mRNA (messenger RNA)",
+    "keyPoints": [
+      "High efficacy in preventing symptomatic COVID-19 and severe disease",
+      "Administered in two doses, typically four weeks apart",
+      "Requires standard freezer storage (-20°C or -4°F) for long-term storage",
+      "Widely used in global vaccination efforts"
+    ],
+    "sideEffects": [
+      "Common: Pain at the injection site, fatigue, headache, muscle pain, chills, fever",
+      "Rare: Allergic reactions"
+    ],
+    "regulatoryApproval": "Received regulatory approvals in various countries and authorized for emergency use"
+  },
+  {
+    "vaccineName": "Sinovac COVID-19 Vaccine",
+    "type": "Inactivated Virus",
+    "targetDisease": "COVID-19",
+    "vaccineTechnology": "Inactivated Virus",
+    "keyPoints": [
+      "Developed using inactivated virus technology",
+      "Administered in two doses",
+      "Demonstrated efficacy in preventing symptomatic COVID-19",
+      "Storage at standard refrigeration temperatures"
+    ],
+    "sideEffects": [
+      "Common: Pain at the injection site, mild fever, fatigue",
+      "Rare: Allergic reactions"
+    ],
+    "regulatoryApproval": "Received regulatory approvals in various countries and authorized for emergency use"
+  },
+  {
+    "vaccineName": "Janssen COVID-19 Vaccine (Johnson & Johnson)",
+    "type": "Viral Vector",
+    "targetDisease": "COVID-19",
+    "vaccineTechnology": "Adenovirus Vector",
+    "keyPoints": [
+      "Single-dose vaccine",
+      "Demonstrated efficacy in preventing symptomatic COVID-19 and severe disease",
+      "Storage at standard refrigeration temperatures",
+      "Widely used for its convenience of a one-shot regimen"
+    ],
+    "sideEffects": [
+      "Common: Pain at the injection site, headache, fatigue, muscle pain, fever, nausea",
+      "Rare: Severe allergic reactions"
+    ],
+    "regulatoryApproval": "Received regulatory approvals in various countries and authorized for emergency use"
+  },
+  {
+    "vaccineName": "Comirnaty (Pfizer-BioNTech COVID-19 Vaccine)",
+    "type": "mRNA",
+    "targetDisease": "COVID-19",
+    "vaccineTechnology": "mRNA (messenger RNA)",
+    "keyPoints": [
+      "High efficacy in preventing symptomatic COVID-19 and severe disease",
+      "Administered in two doses, typically three weeks apart",
+      "Requires ultra-cold storage (-70°C or -94°F) for long-term storage",
+      "Widely used in global vaccination efforts"
+    ],
+    "sideEffects": [
+      "Common: Pain at the injection site, fatigue, headache, muscle pain, chills, fever",
+      "Rare: Allergic reactions"
+    ],
+    "regulatoryApproval": "Received regulatory approvals in various countries and authorized for emergency use"
+  }
+]
