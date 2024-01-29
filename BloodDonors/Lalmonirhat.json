@@ -1,0 +1,53 @@
+{
+  "Lalmonirhat": [
+    {
+      "name": "Md Ibrahim Ali",
+      "bloodGroup": "A Positive",
+      "contactNo": "01745831998",
+      "district": "Lalmonirhat",
+      "policeStation": "Aditmari"
+    },
+    {
+      "name": "Rakib Hasan Raju",
+      "bloodGroup": "AB Positive",
+      "contactNo": "01581730282",
+      "district": "Lalmonirhat",
+      "policeStation": "Hatibandha"
+    },
+    {
+      "name": "Al-Amin Islam",
+      "bloodGroup": "B Positive",
+      "contactNo": "01518486950",
+      "district": "Lalmonirhat",
+      "policeStation": "Patgram"
+    },
+    {
+      "name": "Md foridul Islam akash",
+      "bloodGroup": "O Positive",
+      "contactNo": "01780845068",
+      "district": "Lalmonirhat",
+      "policeStation": "Hatibandha"
+    },
+    {
+      "name": "Ariful Islam",
+      "bloodGroup": "A Positive",
+      "contactNo": "01737137736",
+      "district": "Lalmonirhat",
+      "policeStation": "Lalmanirhat Sadar"
+    },
+    {
+      "name": "Md. Abu Bakar Siddique",
+      "bloodGroup": "A Positive",
+      "contactNo": "01747226028",
+      "district": "Lalmonirhat",
+      "policeStation": "Aditmari"
+    },
+    {
+      "name": "Shishir ranjan",
+      "bloodGroup": "O Positive",
+      "contactNo": "01722722034",
+      "district": "Lalmonirhat",
+      "policeStation": "Hatibandha"
+    }
+  ]
+}
