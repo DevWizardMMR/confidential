@@ -1,0 +1,67 @@
+[
+  {
+    "ambulanceName": "AD-DIN HOSPITAL AMBULANCE SERVICE",
+    "city": "Dhaka",
+    "area": "Bara Maghbazar",
+    "address": "Holding no-02, Road-Outer Circular Road, Bara Maghbazar, Dhaka",
+    "postalCode": "10610",
+    "phoneNumbers": ["+8801713488411", "+8801713488415"],
+    "acType": true
+  },
+  {
+    "ambulanceName": "AD-DIN WOMEN’S MEDICAL COLLEGE HOSPITAL AMBULANCE",
+    "city": "Dhaka",
+    "area": "Bara Maghbazar",
+    "address": "Holding no-02, Road-Outer Circular Road, Bara Maghbazar, Dhaka",
+    "phoneNumbers": ["+88029121381", "+88029353391", "+88029121381"],
+    "acType": false
+  },
+  {
+    "ambulanceName": "AL AMIN- AMBULANCE SERVICE",
+    "city": "Dhaka",
+    "area": "Panthapath",
+    "address": "43/R/5, Road-Panthapath, Panthapath, Dhaka.",
+    "phoneNumbers": ["+88029134171", "+8801720448666", "+8801819137479"],
+    "acType": true
+  },
+  {
+    "ambulanceName": "AL-MARKAZUL ISLAMI AMBULANCE SERVICE",
+    "city": "Dhaka",
+    "area": "Shyamoli",
+    "address": "Road No-3, Dhaka 1207",
+    "phoneNumbers": ["+8801720-275123"],
+    "acType": true
+  },
+  {
+    "ambulanceName": "ALIF AMBULANCE SERVICE",
+    "city": "Dhaka",
+    "area": "Panthapath",
+    "address": "Honding No-76/A (Ground Floor), Road-West Panthapath, Panthapath Dhaka",
+    "phoneNumbers": ["+88029131688", "+88028117576", "+8801819253777"],
+    "acType": true
+  },
+  {
+    "ambulanceName": "ANJUMAN-E-MOFIDUL ISLAM DHAKA AMBULANCE",
+    "city": "Dhaka",
+    "area": "Kakrail",
+    "address": "Holding-42, Anjuman-e-Mofidul Islam, Road-VIP Road Kakrail Dhaka",
+    "phoneNumbers": ["+88029336611", "+88029336611"],
+    "acType": true
+  },
+  {
+    "ambulanceName": "BANGLADESH AMBULANCE MALIK KALLAN SAMITY",
+    "city": "Dhaka",
+    "area": "Shahbagh",
+    "address": "32/A, Dhaka Medical College Road, Shahbagh, Dhaka-1100",
+    "phoneNumbers": ["01909300001", "01976419013"],
+    "acType": true
+  },
+  {
+    "ambulanceName": "CENTRAL HOSPITAL AMBULANCE",
+    "city": "Dhaka",
+    "area": "Dhanmondi",
+    "address": "House # 2, Road # 5, Green Road. Dhanmondi, Dhaka",
+    "phoneNumbers": ["+88029660015", "+880258611050", "+88029660015"],
+    "acType": true
+  }
+]
