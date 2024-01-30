@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Bodyfuel Gym & Fitness Club ",
+    "location": "Medical Road, Bakultala, Jamalpur Sadar, Jamalpur, Jamalpur Sadar Upazila, Bangladesh, 2000",
+    "lat": 24.93005,
+    "long": 89.941864,
+    "shifts": [
+      {
+        "day": "Tuesday",
+        "shifts": [
+          {
+            "start": "6:30 AM",
+            "end": "12 PM"
+          },
+          {
+            "start": "2 PM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "shifts": [
+          {
+            "start": "6:30 AM",
+            "end": "12 PM"
+          },
+          {
+            "start": "2 PM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "shifts": [
+          {
+            "start": "6:30 AM",
+            "end": "12 PM"
+          },
+          {
+            "start": "2 PM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "shifts": [
+          {
+            "start": "6:30 AM",
+            "end": "12 PM"
+          },
+          {
+            "start": "2 PM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "shifts": [
+          {
+            "start": "6:30 AM",
+            "end": "12 PM"
+          },
+          {
+            "start": "2 PM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "shifts": [
+          {
+            "start": "6:30 AM",
+            "end": "12 PM"
+          },
+          {
+            "start": "2 PM",
+            "end": "11 PM"
+          }
+        ]
+      }
+    ],
+    "admissionFee": "Negotiable",
+    "phone": "01716-570901",
+    "email": "bodyfuelbd@gmail.com",
+    "pictures": [
+      "https://lh3.googleusercontent.com/p/AF1QipMUJgR-fpNododcUlP23CChmlqryJoiflDGCrhi=w1080-h608-p-k-no-v0",
+      "https://content.jdmagicbox.com/mangalore/m1/0824px824.x824.161121105324.b6m1/catalogue/body-fuel-unisex-fitness-gym-mangalore-95k57.jpg",
+      "https://content3.jdmagicbox.com/comp/pune/v5/020pxx20.xx20.210305113120.v8v5/catalogue/body-fuel-fitness-club-kothrud-pune-fitness-centres-4mt7tmd2qs.jpg"
+    ],
+    "rating": 4.5
+  },
+  {
+    "name": "California Gym",
+    "location": "House:3, Road: Shayesta Khan Avenue, sector:4, floor: 3rd floor , Dhaka, 1230",
+    "lat": 23.8580883,
+    "long": 90.4022561,
+    "shifts": [
+      {
+        "day": "Tuesday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "11 PM"
+          }
+        ]
+      }
+    ],
+    "admissionFee": "Negotiable",
+    "phone": "01711-176594",
+    "email": null,
+    "pictures": [
+      "https://lh3.googleusercontent.com/p/AF1QipPAuNiH7oAO-H-jUMbNrZj9xv-Gl--oX0nKiVXy=w1080-h608-p-no-v0",
+      "https://www.politico.com/dims4/default/b78001d/2147483647/strip/true/crop/5472x3646+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc9%2Ff1%2Ff77a2fd3430298590e96fcc63e72%2F200527-california-gym-ap-773.jpg",
+      "https://www.californiafitness.in/images/cf_strength.jpg"
+    ]
+  },
+  {
+    "name": "ABC GYM",
+    "location": "Dutch Bangla Bank (3rd Floor), Zirabo Bazar Bus Stand, Dhaka - Ashulia Hwy, Zirabo",
+    "lat": 23.9118277,
+    "long": 90.317472,
+    "shifts": null,
+    "admissionFee": "Negotiable",
+    "phone": "01783-072981",
+    "email": "armandhaka1216@yahoo.com",
+    "pictures": [
+      "https://abcfitness.com/wp-content/uploads/ABC-Corp-1200x630-1-jpg-webp.webp",
+      "https://getactiveabc.com/wp-content/uploads/2020/09/gym.jpg",
+      "https://mma.prnewswire.com/media/2035641/ABC_Fitness_Logo.jpg?p=twitter"
+    ]
+  },
+  {
+    "name": "DIET COUNSELING CENTRE",
+    "location": "12th floor, 28 Kazi Nazrul Islam Ave, Dhaka 1000",
+    "lat": 23.7459727,
+    "long": 90.3914717,
+    "shifts": [
+      {
+        "day": "Tuesday",
+        "shifts": [
+          {
+            "start": "10 AM",
+            "end": "6 PM"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "shifts": [
+          {
+            "start": "10 AM",
+            "end": "6 PM"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "shifts": [
+          {
+            "start": "10 AM",
+            "end": "6 PM"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "shifts": [
+          {
+            "start": "10 AM",
+            "end": "6 PM"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "shifts": [
+          {
+            "start": "10 AM",
+            "end": "6 PM"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "shifts": [
+          {
+            "start": "10 AM",
+            "end": "6 PM"
+          }
+        ]
+      }
+    ],
+    "admissionFee": "Negotiable",
+    "phone": "0258313099",
+    "email": null,
+    "pictures": [
+      "https://lh3.googleusercontent.com/p/AF1QipPCB4AUiJLLfiX3eC9zXh0uT-kTkt3e3FNEsX8A=w1080-h608-p-no-v0",
+      "https://lh3.googleusercontent.com/p/AF1QipNoLkhEcuCDk2HQ6F7KbRJjmTRgYOzZoRlh0plB=w768-h768-n-o-k-v1",
+      "https://media.licdn.com/dms/image/C5622AQG7EL9HN9Uj-A/feedshare-shrink_800/0/1592695878592?e=2147483647&v=beta&t=f6u9DPGtJKNUXsVuvNqcL-x_5CYptYlAy4r7jzsCCro"
+    ]
+  },
+  {
+    "name": "DREAMS FITNESS CLUB",
+    "location": "House No-100/1, Road No-11/A, Satmosjid Road, Dhanmondi, Dhaka 1209",
+    "lat": 23.7473133,
+    "long": 90.368333,
+    "shifts": [
+      {
+        "day": "Tuesday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      }
+    ],
+    "admissionFee": "Negotiable",
+    "phone": "01954964427",
+    "email": null,
+    "pictures": [
+      "https://content3.jdmagicbox.com/comp/mangalore/e8/0824px824.x824.211210213654.n4e8/catalogue/dream-fitness-club-mangalore-fitness-centres-hrqrmazbve.jpg",
+      "https://content3.jdmagicbox.com/comp/mangalore/e8/0824px824.x824.211210213654.n4e8/catalogue/dream-fitness-club-mangalore-fitness-centres-w6xr03hdpu.jpg",
+      "https://files.yappe.in/place/full/dream-fitness-club-3295418.webp"
+    ]
+  },
+  {
+    "name": "COMBAT GYM (FOR BOTH LADIES & GENTS)",
+    "location": "লেকসিটি কনকর্ড Lake City Road, Shopping Complex, Dhaka 1229",
+    "lat": 23.2297863,
+    "long": 88.7486196,
+    "shifts": [
+      {
+        "day": "Tuesday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "10:30 PM"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "10:30 PM"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "12 PM"
+          },
+          {
+            "start": "3 PM",
+            "end": "10:30 PM"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "10:30 PM"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "10:30 PM"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "10:30 PM"
+          }
+        ]
+      }
+    ],
+    "admissionFee": "Negotiable",
+    "phone": "01850480028",
+    "email": "gymcombat2001@gmail.com",
+    "pictures": [
+      "https://www.bangladeshyp.com/img/bd/s/1668085748-17-combat-gym-for-both-ladies-gents.png",
+      "https://thumbs.dreamstime.com/b/shot-men-women-taking-break-workout-gym-training-to-become-fighting-fit-man-woman-244995830.jpg",
+      "https://img.freepik.com/free-photo/people-health-activity-physical-exercises-three-fit-caucasian-athletes-posing-indoors-stylish-blonde-girl-gray-outfit-sitting-boxing-ring-two-men-with-muscular-naked-torso_343059-687.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1701216000&semt=ais"
+    ]
+  },
+  {
+    "name": "ELB FITNESS CENTER",
+    "location": "379 East Rampura, Dhaka 1219",
+    "lat": 23.7547724,
+    "long": 90.405714,
+    "shifts": [
+      {
+        "day": "Tuesday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "11 PM"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "shifts": [
+          {
+            "start": "7 AM",
+            "end": "11 PM"
+          }
+        ]
+      }
+    ],
+    "admissionFee": "Negotiable",
+    "phone": "01914258901",
+    "email": "info@elbfitness.com",
+    "pictures": [
+      "https://www.finddoctor24.com/wp-content/uploads/2017/12/Gym-and-Fitness-Center-in-Dhaka.jpg",
+      "https://www.dbia.com/wp-content/uploads/2021/05/GoldsGym_3-scaled.jpg",
+      "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/06/19/ebl-pr-photo-19.6.22.jpg"
+    ]
+  },
+  {
+    "name": "FAIR & FITNESS",
+    "location": "115, Shah Kabir Mazar, Uttara, Moshair, Dakkhin Khan, Dhaka 1230",
+    "lat": 23.2428149,
+    "long": 88.7179913,
+    "shifts": [
+      {
+        "day": "Tuesday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "shifts": [
+          {
+            "start": "9 AM",
+            "end": "10 PM"
+          }
+        ]
+      }
+    ],
+    "admissionFee": "Negotiable",
+    "phone": "01683400997",
+    "email": null,
+    "pictures": [
+      "https://fairfit.dk/wp-content/uploads/2022/01/3-5-640x640.jpg",
+      "https://egedalcentret.dk/wp-content/uploads/2023/03/Fair-Fitness-Stenloese-1-640x640.jpg-e1692627445207.webp",
+      "https://storage.googleapis.com/download/storage/v1/b/usc-pro-uscweb-live-media/o/de-live%2FvenueHome_1024x576_Studio%20Bild%207_1601371588170140_admin.jpeg?alt=media"
+    ]
+  }
+]
